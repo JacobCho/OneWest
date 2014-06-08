@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+
+<com.racepace.onewest.widgets.AnimatedExpandableListView
+     					android:id="@+id/list3"
+                        android:layout_height="match_parent"
+                        android:layout_width="match_parent"
+                        android:groupIndicator="@null"/>
+
+ <ExpandableListView
+        android:id="@+id/altlist"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:groupIndicator="@null"
+        android:visibility="gone" />
+    
+ 
+</RelativeLayout>

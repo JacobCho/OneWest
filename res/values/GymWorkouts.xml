@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Group Titles for GymWorkoutsFragment -->
+	<string-array name="GymDates">
+	    <item>Jun 2 to Jun 15</item>
+	    <item>May 12 to May 31</item>
+	    <item>Apr 14 to May 11</item>
+	    <item>Apr 21 to Apr 27</item>
+	    <item>Mar 31 to Apr 13</item>
+	    <item>Mar 24 to Mar 30</item>
+	    <item>Mar 18 to Mar 23</item>
+	    <item>Feb 23 to Mar 17</item>
+	    <item>Feb 10 to Feb 22</item>
+	    <item>Jan 20 to Feb 9</item>
+	    <item>Jan 12 to Jan 19</item>
+	    <item>Dec 16 to Jan 6</item>
+	    <item>Nov 26 to Dec 9</item>
+	    <item>Nov 4 to Nov 25</item>
+	</string-array>
+	
+	<!-- GYM WORKOUTS -->
+	<!-- Jun 2 to 15 -->
+		<string name="juntojunday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinup<br /><i><small>(45 secs rest)</i></small>]]></string>
+		<string name="juntojunday1a"><![CDATA[• Push Press<br />• Medball Floor Slams]]></string>
+		<string name="juntojunday1b"><![CDATA[• Back Squat<br />• Overhead Forward Medball Throw]]></string>
+		<string name="juntojunday1c"><![CDATA[• Incline Dumbell Press<br />• Incline Prone Bench Dumbell Row<br />• Barbell Upright Row<br />• Straight Arm Pulldown<br />• Weighted Dips<br />• Dumbell Shrugs]]></string>
+		<string name="juntojunday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullup]]></string>
+		<string name="juntojunday2a"><![CDATA[• Bench Press<br />• Medball Plyo Pushup]]></string>
+		<string name="juntojunday2b"><![CDATA[• Power Clean<br />• Overhead Forward Medball Throw]]></string>
+		<string name="juntojunday2c"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown<br />• One Arm Standing Dumbell Hammer Curl into Shoulder Press<br />• One Arm Standing Cable Row<br />• One Arm Dumbell Power Snatch]]></string>
+		<string name="juntojuncore"><![CDATA[<b>Core Work:</b><br />• Hanging Twists]]></string>
+		
+	<!-- Sets -->
+		<string-array name="juntojunsets">
+		    <item>\n(10 x 1)</item>
+		    <item>(7 x 2)\n(7 x 8)</item>
+		    <item>(4 x 2)\n(4 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>\n(10 x 1)</item>
+		    <item>(7 x 2)\n(7 x 8)</item>
+		    <item>(4 x 2)\n(4 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x Failure)</item>
+		</string-array>
+		
+		
+	<!-- May 12 to 18 -->
+		<string name="maytomayday1"><![CDATA[<b>Day 1:</b><br />• Push Press<br />•Weighted Chinup<br /><i><small>(60 seconds between each set)</i></small>]]></string>
+		<string name="maytomayday1a"><![CDATA[• Back Squat]]></string>
+		<string name="maytomayday1b"><![CDATA[• Incline Dumbell Press<br />• Incline Prone Bench Dumbell Row<br />• Straight Arm Pulldown<br />• Weighted Dips<br />• Dumbell Shrugs]]></string>
+		<string name="maytomayday1c"><![CDATA[• Overhead Dumbell Tricep Extension<br />• Seated Dumbell Hammer Curls<br />• Laying Dumbell Tricep Extensions<br />• Standing Dumbell Hammer Curl<br/>Into Shoulder Press]]></string>
+		<string name="maytomayday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullup<br />• Bench Press<br /><i><small>(60 seconds between each set)</i></small>]]></string>
+		<string name="maytomayday2a"><![CDATA[• Power Clean<br />• Overhead Forward Medball Throw]]></string>
+		<string name="maytomayday2b"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown<br />• One Arm Standing Cable Row<br />• One Arm Dumbell Power Snatch]]></string>
+		<string name="maytomayday2c"><![CDATA[• Standing Rope Hammer Cable Curls<br />• Tricep Rope Pushdowns<br />• Standing Cable Curl<br />• Standing Rope Tricep Cable Kickbacks]]></string>
+		
+	<!-- Sets -->	
+		<string-array name="maytomaysets">
+		    <item>\n(10 x 3)</item>
+		    <item>(2 x 4)\n(5 x 2)</item>
+		    <item>(3 x 6)</item>
+		    <item>(3 x 6)</item>
+		    <item>\n(10 x 3)</item>
+		    <item>(5 x 4)</item>
+		    <item>(3 x 6)</item>
+		    <item>(3 x 6)</item>
+		</string-array>	
+		
+		
+	<!-- Apr 21 to 27 -->
+		<string name="raceataday1"><![CDATA[<b>Day 1:</b><br />• Weighted Pullup]]></string>
+		<string name="raceataday1a"><![CDATA[• Bench Press]]></string>
+		<string name="raceataday1b"><![CDATA[• Incline Dumbell Press<br />• Incline Prone Bench Dumbell Row<br />• Straight Arm Pulldown<br />• Weighted Dips<br />• Dumbell Shrugs]]></string>
+		<string name="raceataday1c"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown<br />• One Arm Standing Cable Row<br />• One Arm Dumbell Power Snatch]]></string>
+		<string name="raceataday2"><![CDATA[<b>Day 2:</b><br />• Push Press<br />• Weighted Chinup]]></string>
+		<string name="raceataday2a"><![CDATA[• Power Clean<br /><i><small>(30 sec rest between each rep, full rest between sets)</i></small>]]></string>
+		<string name="raceataday2b"><![CDATA[• Back Squat]]></string>
+		
+	<!-- Sets -->	
+		<string-array name="raceatasets">
+		    <item>\n(Two Rep Max Test)</item>
+		    <item>(Two Rep Max Test)</item>
+		    <item>(2 x 6)</item>
+		    <item>(2 x 6)</item>
+		    <item>(5 x 2)</item>
+		    <item>(3 x 1-1-1-1-1)</item>
+		    <item>(3 x 2)</item>
+		</string-array>
+		
+	<!-- Apr 14 to May 11 -->
+	
+		<string name="ataday1"><![CDATA[<b>Day 1:</b><br />• Push Press <br />• Weighted Chinups<br /><i><small>(20 sec between rep groups, full rest between sets.  Complete all 6 reps of push press before moving onto chinup in each set)</i></small>]]></string>
+		<!-- Day 1 use emtmday1a -->
+		<string name="ataday1b"><![CDATA[• Incline Dumbell Press <br />• Incline Prone Bench Dumbell Row<br />• Straight Arm Pulldown<br />• Dumbell Shrugs<br /><i><small>[Circuit Style]</i></small>]]></string>
+		<string name="ataday1c"><![CDATA[• Overhead Dumbell Tricep Extension<br />• Seated Dumbell Hammer Curls<br />• Laying Dumbell Tricep Extensions<br />• Standing Dumbell Hammer Curl<br/>Into Shoulder Press<br /><i><small>[Circuit Style]</i></small>]]></string>
+		<string name="ataday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups<br />• Bench Press<br /><i><small>(20 sec between rep groups)</i></small>]]></string>
+		<string name="ataday2a"><![CDATA[• Power Clean<br /><i><small>(30 sec rest between each rep, <br />full rest between sets)</i></small]]></string>
+		<string name="ataday2b"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown<br />• Cheating Dumbell Upright Row<br /><i><small>[Circuit Style]</i></small>]]></string>
+		<string name="ataday2c"><![CDATA[• Standing Rope Hammer Cable Curls<br />• Tricep Rope Pushdowns<br />• Standing Cable Curl<br />• Standing Rope Tricep Cable Kickbacks<br /><i><small>[Circuit Style]</i></small>]]></string>
+		
+		
+	<!-- Sets -->	
+		<string-array name="atasets">
+		    <item>\n (7 x 2-2-2reps)</item>
+		    <item>(2 x 4)\n(5 x 2)</item>
+		    <item>(4 x 5)</item>
+		    <item>(4 x 5)</item>
+		    <item>\n (7 x 2-2-2reps)</item>
+		    <item>(5 x 1-1-1-1-1reps)</item>
+		    <item>(4 x 5)</item>
+		    <item>(4 x 5)</item>
+		     <!-- Circuit -->
+		    <item>\n (4 x Failure)\n(4 x 12)\n(4 x 16)</item>
+		    <item>\n (4 x Failure)\n(4 x 10)\n(4 x 10)</item>
+		    <item>\n (4 x 10)\n(4 x 10)\n(4 x 60sec)</item>
+		</string-array>
+		
+	
+	<!-- Mar 31 to Apr 13 -->
+		<!-- SAME AS MAR 24 to 30; VARIABLES REUSED -->
+		
+	<!-- Sets -->
+		<string-array name="mtasets">
+		    <item>\n (7 x 3)</item>
+		    <item>(3 x 5)\n(3 x 3)</item>
+		    <item>(4 x 8)</item>
+		    <item>(4 x 8)</item>
+		    <item>\n (7 x 3)</item>
+		    <item>(7 x 3)</item>
+		    <item>(4 x 8)</item>
+		    <item>(4 x 6)</item>
+		    <!-- Circuit -->
+		    <item>\n (4 x Failure)\n(4 x 12)\n(4 x 16)</item>
+		    <item>\n (4 x Failure)\n(4 x 10)\n(4 x 10)</item>
+		    <item>\n (4 x 10)\n(4 x 10)\n(4 x 60sec)</item>
+		</string-array>
+		
+	<!-- Mar 24 to 30 -->
+		<string name="emtmday1"><![CDATA[<b>Day 1:</b><br />• Push Press <br />• Weighted Chinups]]></string>
+		<string name="emtmday1a"><![CDATA[• Back Squat]]></string>
+		<string name="emtmday1b"><![CDATA[• Incline Dumbell Press <br />• Incline Prone Bench Dumbell Row<br />• Straight Arm Pulldown]]></string>
+		<string name="emtmday1c"><![CDATA[• Overhead Dumbell Tricep Extension<br />• Seated Dumbell Hammer Curls<br />• Laying Dumbell Tricep Extensions]]></string>
+		<string name="emtmday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups<br />• Bench Press]]></string>
+		<string name="emtmday2a"><![CDATA[• Power Clean]]></string>
+		<string name="emtmday2b"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown]]></string>
+		<string name="emtmday2c"><![CDATA[• Standing Cable Curls<br />• Tricep Pushdowns<br />• Standing Reverse Cable Curl]]></string>
+		<string name="emtmcirc1"><![CDATA[<b>Circuit 1:</b><br />• Hanging Twists<br />• Roman Chair Medball Situp Throws<br />• Plate Around Head]]></string>
+		<string name="emtmcirc2"><![CDATA[<b>Circuit 2:</b><br />• Pikes<br />• Bar Twists<br />• Bar Sidebend]]></string>
+		<string name="emtmcirc3"><![CDATA[<b>Circuit 3:</b><br />• Russian Twists<br />• Weighted Back Extensions<br />• Weighted Plank]]></string>
+		
+	<!-- Sets -->
+		<string-array name="emtmsets">
+		    <item>\n (7 x 3)</item>
+		    <item>(2 x 6)\n(4 x 3)</item>
+		    <item>(4 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>\n (7 x 3)</item>
+		    <item>(5 x 5)</item>
+		    <item>(4 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <!-- Circuit -->
+		    <item>\n (4 x Failure)\n(4 x 12)\n(4 x 16)</item>
+		    <item>\n (4 x Failure)\n(4 x 10)\n(4 x 10)</item>
+		    <item>\n (4 x 10)\n(4 x 10)\n(4 x 60sec)</item>
+		</string-array>	
+		
+	<!-- Mar 18 to 23 -->
+		<string name="mtmday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinups <br />• Incline Barbell Press]]></string>
+		<string name="mtmday1a"><![CDATA[• Weighted Dips <br />• Incline Prone Dumbell Row]]></string>
+		<string name="mtmday1b"><![CDATA[• Hanging Twists <br />• Roman Chair Med Ball Situp Throws<br />• Plate Around Head]]></string>
+		<string name="mtmday2"><![CDATA[<b>Day 2:</b><br />• Power Cleans]]></string>
+		<string name="mtmday2a"><![CDATA[• Push Press]]></string>
+		<string name="mtmday2b"><![CDATA[• Back Squat]]></string>
+		
+	<!-- Sets -->
+		<string-array name="mtmsets">
+		    <item>\n (5 x 2)</item>
+		    <item>(4 x 5)</item>
+		    <item>(4 x Failure)\n(4 x 12)\n(4 x 6)</item>
+		    <item>\n (5 x 3)</item>
+		    <item>(5 x 3)</item>
+		    <item>(2 x 7)\n(3 x 4)</item>
+		</string-array>
+		
+	<!-- Feb 23 to Mar 17 -->
+		<string name="ftmday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinups <br /><i><small>(Have a partner pull you down slowly as you <br />resist for the eccentric portion of the chinup,<br /> perform the concentric portion as explosively as possible)</i></small>]]></string>
+		<string name="ftmday1a"><![CDATA[• Push Press]]></string>
+		<string name="ftmday1b"><![CDATA[• Incline Dumbell Press <br />• Incline Prone Bench Dumbell Row<br />• Straight Arm Pulldown]]></string>
+		<string name="ftmday1c"><![CDATA[• Pikes <br />• Bar Twists<br />• Bar Sidebend]]></string>
+		<string name="ftmday2"><![CDATA[<b>Day 2:</b><br />• Bench Press <br />• Prone Bench Dumbell Row<br /><i><small>(Have a partner push the bar down slowly as you <br />resist for the eccentric portion of the lift, <br />perform the concentric portion as explosively as possible)</i></small>]]></string>
+		<string name="ftmday2a"><![CDATA[• Power Clean]]></string>
+		<string name="ftmday2b"><![CDATA[• Snatch Grip Deadlift<br /><i><small>(Use straps, very wide grip, feel weight on the balls<br /> of your foot, pull through the foot and stay upright!)</i></small>]]></string>
+		<string name="ftmday2c"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown]]></string>
+		<string name="ftmday3"><![CDATA[<b>Day 3:</b><br />• Weighted Pullups <br /><i><small>(Have a partner pull you down slowly as you<br /> resist for the eccentric portion of the pullup,<br /> perform the concentric portion as explosively as possible)</i></small>]]></string>
+		<string name="ftmday3a"><![CDATA[• Back Squat]]></string>
+		<string name="ftmday3b"><![CDATA[• Standing Cable Curls <br />• Tricep Pushdowns<br />• Standing Reverse Cable Curl<br /><i><small>(A curl with palms facing down)</i></small>]]></string>
+		<string name="ftmday3c"><![CDATA[• Hanging Twists<br />• Medball Situp Throws<br />• Plate Around Head<br /><i><small>(Hold a 10-20kg plate and while keeping <br />your body motionless quickly move the plate <br />from your abdomen around your head and back down<br /> 6 times then change directions for 6 more reps)</i></small>]]></string>
+		
+		
+	<!-- Sets -->	
+		<string-array name="ftmsets">
+		    <item>\n(4 x 4)</item>
+		    <item>(5 x 5)</item>
+		    <item>(4 x 6)</item>
+		    <item>(4 x Failure)\n(4 x 10)\n(4 x 10)</item>
+		    <item>\n(4 x 4)\n(4 x 6)</item>
+		    <item>(5 x 3)</item>
+		    <item>(5 x 5)</item>
+		    <item>(4 x 6)</item>
+		    <item>(4 x 4)</item>
+		    <item>(2 x 7)\n(3 x 4)</item>
+		    <item>(4 x 6)</item>
+		    <item>(4 x Failure)\n(4 x 12)\n(4 x 6)</item>
+		</string-array>
+		
+		
+	<!-- Feb 10 to Feb 22 -->
+		<string name="ftfday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinups]]></string>
+		<string name="ftfday1a"><![CDATA[• Bench Press <br />• Prone Bench Dumbell Row]]></string>
+		<string name="ftfday1b"><![CDATA[• Power Cleans]]></string>
+		<string name="ftfday1c"><![CDATA[• Roman Chair Situps<br />• Barbell Side Bends<br />• Barbell Twists<br /><i><small>(10 each side)</i></small>]]></string>
+		<string name="ftfday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups]]></string>
+		<string name="ftfday2a"><![CDATA[• Incline Dumbell Press<br />• Incline Prone Bench DB Row]]></string>
+		<string name="ftfday2b"><![CDATA[• Front Squat <br />• Leg Curl]]></string>
+		<string name="ftfday2c"><![CDATA[• Hanging Twists<br />• Roman Chair Situps<br />• Front Plank]]></string>
+		
+	<!-- Sets -->
+		<string-array name="ftfsets">
+		   <item>\n (5 Rep Max)</item> 
+		   <item>(5 Rep Max)</item>
+		   <item>(5 x 5)</item>
+		   <item>(3 x 20)</item>
+		   <item>\n (5 Rep Max)</item> 
+		   <item>(7 x 5)</item>
+		   <item>(7 x 5)</item>
+		   <item>(3 x Failure)</item>
+		    
+		</string-array>
+	<!-- Jan 20 to Feb 9 Workouts -->
+	    <string name="jtfday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinups]]></string>
+	    <string name="jtfday1a"><![CDATA[• Bench Press <br /><i><small>Pause briefly at 3 points during lowering portion<br /> of each rep</small></i><br />• Prone Dumbell Row ]]></string>
+	    <string name="jtfday1b"><![CDATA[• Dumbell Push Press <br />• Straight Arm Pulldown<br />• Upright Row <br />• Bicep Curls<br /><i><small>Circuit Style</i></small>]]></string>
+	    <string name="jtfday1c"><![CDATA[• Roman Chair Situps<br />• Barbell Side Bends<br />• Barbell Twists<br /><i><small>(10 each side)</i></small>]]></string>
+	    <string name="jtfday1d"><![CDATA[• Light Cable External Rotation]]></string>
+	    <string name="jtfday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups<br /><i><small>Pause briefly at 3 points during lowering portion<br /> of each rep</small></i>]]></string>
+	    <string name="jtfday2a"><![CDATA[• Incline Dumbell Press<br />• Incline Prone Bench DB Row]]></string>
+	    <string name="jtfday2b"><![CDATA[• Inverted Row<br />• Straight Arm Pulldown <br />• Face Pull<br />• Tricep Pushdown<br /><i><small>Circuit Style</i></small> ]]></string>
+	    <string name="jtfday2c"><![CDATA[• Hanging Twists<br />• Roman Chair Situps<br />• Front Plank]]></string>
+	    <string name="jtfday2d"><![CDATA[• Light Cable External Rotation]]></string>
+	    <string name="jtfday3"><![CDATA[<b>Day 3:</b><br />• Power Clean<br /><i><small>Pick a weight that will allow you to complete<br /> 5 reps without rest. <b>Don\'t lift too heavy.</b><br />Do not do a full squat after each rep.</small></i>]]></string>
+	    <string name="jtfday3a"><![CDATA[• Front Squat<br /><i><small>Pause briefly at 3 points during lowering portion<br /> of each rep</small></i><br />• Leg Curl]]></string>
+	    <string name="jtfday3b"><![CDATA[• Standing Barbell Tricep Extension<br />• Barbell Curls<br />• Straight Arm Pulldown <br />• Rowing Machine<br /><i><small>Circuit Style</i></small>]]></string>
+		<string name="jtfday3c"><![CDATA[• Toes to Bar<br />• V-Sit with twist holding a plate<br />• Front Plank]]></string>
+		
+		<!-- Sets -->
+		<string-array name="jtfsets1">
+		    <item>\n (7 x 5)</item>
+		    <item>(7 x 5)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x 20)</item>
+		    <item>(3 x 10)</item>
+		    <item>\n (7 x 5)</item>
+		    <item>(7 x 5)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x Failure)</item>
+		    <item>(3 x 10)</item>
+		    <item>\n (5 x 5)</item>
+		    <item>(7 x 5)</item>
+		    <item>(6 x 6)</item>
+		    <item>(3 x Failure)</item>
+		    <item>(3 x 10)</item>
+		</string-array>
+		
+		
+	<!-- Jan 12 to Jan 19 -->
+		<string name="jtjday1"><![CDATA[<b>Day 1:</b><br />• Weighted Pullups]]></string>
+	    <string name="jtjday1a"><![CDATA[• Bench Press <br />• Prone Bench Dumbell Row]]></string>
+	    <string name="jtjday1b"><![CDATA[• Front Squat <br />• Leg Curl]]></string>
+	    <string name="jtjday1c"><![CDATA[• Dumbell Push Press<br />• Straight Arm Pulldown<br />• Upright Row<br />• Bicep Curl]]></string>
+	    <string name="jtjday1d"><![CDATA[• Hanging Twists<br />• Roman Chair Situps<br />• Front Plank]]></string>
+	    <string name="jtjday2"><![CDATA[<b>Day 2:</b><br />• Muscle Snatch]]></string>
+	    <string name="jtjday2a"><![CDATA[• Hexbar Deadlift]]></string>
+	    <string name="jtjday2b"><![CDATA[• Inverted Row<br />• Straight Arm Pulldown<br />• Face pull<br />• Tricep Pushdown]]></string>
+	    <string name="jtjday2c"><![CDATA[• Toes to bar<br />• V-Sit with twist holding a plate<br />• Front Plank]]></string>
+
+		<!-- Sets -->
+		<string-array name="jtjsets">
+		    <item>\n (7 x 5)</item>
+		    <item>(7 x 5)</item>
+		    <item>(4 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x Failure)</item>
+		    <item>\n (4 x 6)</item>
+		    <item>(6 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x Failure)</item>
+		</string-array>
+		
+	<!-- Dec 16 to Jan 6 -->
+		<string name="dtjday1"><![CDATA[<b>Day 1:</b><br />• Bench Press<br />• Prone Bench Dumbell Row]]></string>
+	    <string name="dtjday1a"><![CDATA[• Back Squat <br />• Leg Curl]]></string>
+	    <string name="dtjday1b"><![CDATA[• Muscle Snatch <br />• Dumbell Push Press<br />• Straight Arm Pulldown <br />• Barbell Curl]]></string>
+	    <string name="dtjday1c"><![CDATA[• Toes to bar<br />• V-Sit with twist holding a plate<br />• Front Plank]]></string>
+	    <string name="dtjday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups<br />• Weighted Dips]]></string>
+	    <string name="dtjday2a"><![CDATA[• Hexbar Deadlift]]></string>
+	    <string name="dtjday2b"><![CDATA[• Muscle Snatch<br />• Straight Arm Pulldown <br />• Face Pull<br />• Tricep Pushdown ]]></string>
+	    <string name="dtjday2c"><![CDATA[• Hanging Twists<br />• Roman Chair Situps<br />• Front Plank]]></string>
+	    <string name="dtjday3"><![CDATA[<b>Day 3:</b><br />• Weighted Chinups<br />• Incline Bench Press]]></string>
+	    <string name="dtjday3a"><![CDATA[• Front Squat<br />• Leg Curl]]></string>
+	    <string name="dtjday3b"><![CDATA[• Muscle Snatch<br />• Straight Arm Pulldown<br />• Upright Row<br />• Cable Crossover Rear Delts]]></string>
+		<string name="dtjday3c"><![CDATA[• Roman Chair Situps<br />• Barbell Side Bends<br />• Barbell Twists]]></string>
+	
+		<!-- Sets -->
+		<string-array name="dtjsets">
+		    <item>\n (4 x 5&#8211;4&#8211;3&#8211;2&#8211;1)</item>
+		    <item>(6 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x Failure)</item>
+		    <item>\n (2 x 7)\n (3 x 5)</item>
+		    <item>(6 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x Failure)</item>
+		    <item>\n (4 x 5&#8211;4&#8211;3&#8211;2&#8211;1)</item>
+		    <item>(6 x 6)</item>
+		    <item>(4 x 6)</item>
+		    <item>(3 x 20)</item>
+		</string-array>
+		
+	<!-- Nov 26 to Dec 9 -->
+		<string name="ntdday1"><![CDATA[<b>Day 1:</b><br />• Bench Press (5 second eccentric)<br />• Prone Incline DB Rows (elbows flared out)<br />• Prone Incline DB Rows (elbows tucked in)]]></string>
+	    <string name="ntdday1a"><![CDATA[• Grappler Press <br />• One Arm Dumbell Row]]></string>
+	    <string name="ntdday1b"><![CDATA[• Muscle Snatch]]></string>
+	    <string name="ntdday1c"><![CDATA[• Barbell Slide Curls<br />• Reverse Curls]]></string>
+	    <string name="ntdday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups (5 sec eccentric)<br />• Straight Arm Pullovers]]></string>
+	    <string name="ntdday2a"><![CDATA[• One Arm Dumbell Push Press<br />• One Arm Dumbell Row]]></string>
+	    <string name="ntdday2b"><![CDATA[• Back Squat]]></string>
+	    <string name="ntdday2c"><![CDATA[• Barbell Slide to Forehead<br />• Reverse Curls]]></string>
+	    <string name="ntdday3"><![CDATA[<b>Day 3:</b><br />• Weighted Chinups (5 sec eccentric)<br />• Straight Arm Cable Pulldowns]]></string>
+	    <string name="ntdday3a"><![CDATA[• Snatch Grip Deadlift]]></string>
+	    <string name="ntdday3b"><![CDATA[• Weighted Dips (5 second eccentric)<br />• Prone Incline DB Rows (elbows flared out)<br />• Prone Incline DB Rows (elbows tucked in)]]></string>
+		<string name="ntdday3c"><![CDATA[• Barbell Slide Curls<br />• Reverse Curls]]></string>
+		<string name="ntdday3d"><![CDATA[<b>Hillsprints:</b><br />• 20-30m x 4 sets]]></string>
+		<string name="ntdday3e"><![CDATA[<b>Tempo Sprints:</b><br />• 100 yard sprint, 60 yard walk<br />Repeat till technical breakdown x 2 sets]]></string>
+		
+		<!-- Sets -->
+		<string-array name="ntdsets">
+		    <item>\n (7 x 5)</item>
+		    <item>(7 x 5)</item>
+		    <item>(6 x 6)</item>
+		    <item>(6 x 6)</item>
+		    <item>\n (7 x 5)</item>
+		    <item>(7 x 5)</item>
+		    <item>(6 x 6)</item>
+		    <item>(6 x 6)</item>
+		    <item>\n (7 x 5)</item>
+		    <item>(6 x 6)</item>
+		    <item>(7 x 5)</item>
+		    <item>(6 x 6)</item>
+		    <item>""</item>
+		    <item>""</item>
+		</string-array>
+		
+	<!-- Nov 4 to 25 -->
+		<string name="ntnday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinups<br />• Straight Arm Cable Pulldowns]]></string>
+	    <string name="ntnday1a"><![CDATA[• Bench Press <br />• Machine Row]]></string>
+	    <string name="ntnday1b"><![CDATA[• Hexbar Deadlifts]]></string>
+	    <string name="ntnday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullups<br />• Straight Arm Pullovers]]></string>
+	    <string name="ntnday2a"><![CDATA[• One Arm Dumbell Push Press<br />• One Arm Dumbell Row]]></string>
+	    <string name="ntnday2b"><![CDATA[• Weighted Dips<br />• Barbell Curl<br />• Barbell Reverse Curl]]></string>
+	    <string name="ntnday3"><![CDATA[<b>Day 3:</b><br />• Muscle Snatch]]></string>
+	    <string name="ntnday3a"><![CDATA[• Incline Dumbell Bench Press<br />• Prone Incline DB Rows<br />• Incline Dumbell Hammer Curls]]></string>
+		<string name="ntnday3b"><![CDATA[• Front Squats<br />• Leg Curls]]></string>
+		<string name="ntnday3c"><![CDATA[<b>Hillsprints:</b><br />• 20-30m x 4 sets]]></string>
+		<string name="ntnday3d"><![CDATA[<b>Tempo Sprints:</b><br />• 100 yard sprint, 60 yard walk<br />Repeat till technical breakdown x 2 sets]]></string>
+		<string name="ntnday3e"><![CDATA[<b>Optional Core Work:</b><br />• Roman Chair Situps<br />• Barbell Side Bends<br />• Barbell Twists]]></string>
+		<string name="ntnday3f"><![CDATA[<b>OR:</b><br />• Hanging Twists<br />• Roman Chair Situps<br />• Seated Barbell Twists]]></string>
+		
+		<!-- Sets -->
+		<string-array name="ntnsets">
+		    <item>\n (10 x 6)</item>
+		    <item>(10 x 6)</item>
+		    <item>(4 x 15)</item>
+		    <item>\n (10 x 6)</item>
+		    <item>(10 x 6)</item>
+		    <item>(5 x 10)</item>
+		    <item>\n (6 x 6)</item>
+		    <item>(10 x 6)</item>
+		    <item>(6 x 6)</item>
+		    <item>""</item>
+		    <item>""</item>
+		    <item>(3 x 20)</item>
+		    <item>(3 x 20)</item>
+		</string-array>
+		
+</resources>

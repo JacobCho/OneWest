@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    
+  <TextView
+      android:id="@+id/weeksof"
+      android:layout_width="match_parent" 
+      android:layout_height="wrap_content"
+      android:paddingLeft="8dp"
+      android:text="@string/WeeksOf"
+      android:textStyle="bold"
+      android:textSize="17sp"
+      android:textColor="@color/grey"
+      android:background="@color/white" />
+
+<com.racepace.onewest.widgets.AnimatedExpandableListView
+    					android:id="@+id/list2"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:layout_below="@id/weeksof"
+                        android:groupIndicator="@null"/>
+
+ <ExpandableListView
+        android:id="@+id/altlist"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:groupIndicator="@null"
+        android:visibility="gone" />
+
+</RelativeLayout>

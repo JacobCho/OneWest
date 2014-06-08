@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Group Titles for OCWorkoutsFragment -->
+	<string-array name="OCDates">
+	    <item>Jun 15</item>
+	    <item>Jun 8</item>
+	    <item>Jun 1</item>
+	    <item>May 25</item>
+	    <item>May 18</item>
+	    <item>May 11</item>
+	    <item>May 4</item>  
+	    <item>Apr 27</item>
+	    <item>Apr 20</item>
+	    <item>Apr 13</item>
+	    <item>Apr 6</item>
+	    <item>Mar 30</item>
+	    <item>Mar 23</item>
+	    <item>Mar 16</item>
+	    <item>Mar 9</item>
+	    <item>Mar 2</item>
+	    <!--  
+	    <item>Feb 23</item>
+	    <item>Feb 16</item>
+	    <item>Feb 9</item>
+	    <item>Feb 2</item>
+	    <item>Jan 26</item>
+	    <item>Jan 19</item>
+	    <item>Jan 12</item>
+	    <item>Jan 5</item>
+	    <item>Dec 29</item>
+	    <item>Dec 22</item>
+	    <item>Dec 15</item>
+	    <item>Dec 8</item>
+	    <item>Dec 1</item>
+	    <item>Nov 24</item>
+	    <item>Nov 17</item>
+	    <item>Nov 10</item>
+	    <item>Nov 3</item>
+	    <item>Oct 27</item>
+	    <item>Oct 20</item> -->
+	</string-array>
+	
+	<!-- OC WORKOUTS -->
+	<!-- Jun 15 -->
+	<string name="jun15primary"><![CDATA[<b>Primary:</b> 3 strokes, 6 strokes, 10 strokes, x 10, on a minute beep]]></string>
+	<string name="jun15db"><![CDATA[<b>Dragon Boat:</b> 500m skeletons.]]></string>
+	
+	<!-- Jun 8 -->
+	<string name="jun8primary"><![CDATA[<b>Primary:</b> 6 x 330m, then 1500m ]]></string>
+	<string name="jun8sec"><![CDATA[<b>Secondary:</b> DB blade, 120 sec, 30 sec off, 90 sec on, 60 sec off, 60 sec on, 90 sec off, 30 sec on. Rigged on the side you paddle. As hard as you can do it.  ]]></string>
+	<string name="jun8db"><![CDATA[<b>Dragon Boat:</b>  Starts to 500m transition, 1 500m piece with rhythm, one 500m with rhythm and a finish]]></string>
+	<string name="jun8db2"><![CDATA[<b>Dragon Boat:</b> Blend practice: Starts, 20 sec on, 10 sec off x 6 with lots of rest.]]></string>
+	
+	<!-- Jun 1 -->
+	<string name="jun1primary"><![CDATA[<b>Primary:</b> 3 x 330m, then 1500m.]]></string>
+	<string name="jun1sec"><![CDATA[<b>Secondary:</b> 30 sec on, 60 sec off x 20 <u>PES9</u> one side, switch sides each piece.]]></string>
+	<string name="jun1db"><![CDATA[<b>Dragon Boat:</b> Mixed: Wash riding practice. Men: Race statagy, go over calls.]]></string>
+	<string name="jun1db2"><![CDATA[<b>Dragon Boat:</b> Practice starts and transitions to 200m pace, 500m pace, and 2000m pace ]]></string>
+	
+	<!-- May 25 -->
+	<string name="may25coached"><![CDATA[<b>Coached:</b> 4 min <u>PES7</u>, 2 min <u>PES3</u> in 5km loop.]]></string>
+	<string name="may25primary"><![CDATA[<b>Primary:</b> Last of 330m challenge, or do a 330 piece, 165m, 1500m ]]></string>
+	<string name="may25db"><![CDATA[<b>Dragon Boat:</b> Practice starts and transitions to 200m pace, 500m pace, and 2000m pace.]]></string>
+	
+	<!-- May 18 -->
+	<string name="may18coached"><![CDATA[<b>Coached:</b> <u>Tuesday Group:</u> 5 km race<br /><u>Thursday Group:</u> 2 min on 30 sec off x 15 <u>PES7</u>]]></string>
+	<string name="may18primary"><![CDATA[<b>Primary:</b> 500m in Alcan course, then 1000m from Science World, then 1500m back to Alder Bay dock.]]></string>
+	<string name="may18db"><![CDATA[<b>Dragon Boat:</b> All strokes up to 45 sec. Max rate.]]></string>
+	
+	<!-- May 11 -->
+	<string name="may11coached"><![CDATA[<b>Coached: </b><u>Tuesday Group:</u> 2 min on 30 sec off x 15 <u>PES7</u><br /><u>Thursday Group:</u> 5km race]]></string>
+	<string name="may11primary"><![CDATA[<b>Primary:</b> 1500m from dock to bridge, then 500m in Alcan course, then 1000m from Science World back to pier.]]></string>
+	<string name="may11db"><![CDATA[<b>Dragon Boat:</b> Practice starts, then, 15 sec on 10 sec active rest, 15 sec on 15 sec active rest, 15 sec on. Max rate.]]></string>
+	
+	<!-- May 4 -->
+	<string name="may4coached"><![CDATA[<b>Coached:</b> 1 min on 30 sec off x 30 <u>PES8</u>]]></string>
+	<string name="may4primary"><![CDATA[<b>Primary:</b> 2 x 330m pieces, one can be a challenge, 3 165m, 1500m]]></string>
+	<string name="may4db"><![CDATA[<b>Dragon Boat:</b> Practice starts, then, 20 sec on 10 sec active rest times 20 sec on. Max rate.]]></string>
+	
+	<!-- Apr 27 -->
+	<string name="apr27coached"><![CDATA[<b>Coached:</b> Bring a resistor and DB blade. 3 stokes, 6 strokes, 10 strokes, on the minute. x 10. Rigged on the side you paddle.]]></string>
+	<string name="apr27primary"><![CDATA[<b>Primary:</b> 2 x 330m pieces, one can be a challenge, 2 x 165m, 1500m.]]></string>
+	<string name="apr27db"><![CDATA[<b>Dragon Boat:</b> Accelerate: All strokes up to 40, no transition. Hold at max rate.]]></string>
+	
+	<!-- Apr 20 -->
+	<string name="apr20coached"><![CDATA[<b>Coached:</b> 2 times 1500m turn and go.]]></string>
+	<string name="apr20primary"><![CDATA[<b>Primary:</b> OC blade workout switching sides: 2 x 1000m turn and go, 2 x 500m turn and go. (500m in the Alcan course)]]></string>
+	<string name="apr20db"><![CDATA[<b>Dragon Boat:</b> Accelerate: All strokes up to 30, no transition. Hold at max rate.]]></string>
+	
+	<!-- Apr 13 -->
+	<string name="apr13coached"><![CDATA[<b>Coached:</b> 30, 60, 90, 120, 90, 60, 30, 60, 90, 120, 90, 120, 90, 60, 30. with 30 sec rest between.  At high tempo.]]></string>
+	<string name="apr13primary"><![CDATA[<b>Primary:</b> 2 x 330m pieces, one can be a challenge. 165m, 1500m.]]></string>
+	<string name="apr13db"><![CDATA[<b>Dragon Boat:</b> Starts: All the strokes up to 20.]]></string>
+	
+	<!-- Apr 6 -->
+	<string name="apr6coached"><![CDATA[<b>Coached:</b> 40 sec on, 20 sec off x 40 <u>PES8</u>. All from full starts, All on the same side, but switch sides every piece.  Running starts. ]]></string>
+	<string name="apr6primary"><![CDATA[<b>Primary:</b> 330m challenge, or piece, 2 x 165m pieces, 1500m.]]></string>
+	<string name="apr6db"><![CDATA[<b>Dragon Boat:</b> Starts: All the strokes up to 10.]]></string>
+	
+	<!-- Mar 30 -->
+	<string name="mar30coached"><![CDATA[<b>Coached:</b> 20 sec on, 40 sec off x 40. <u>PES 9</u>. All from full starts. All on the same side, but switch sides every piece.  with oc blade. ]]></string>
+	<string name="mar30primary"><![CDATA[<b>Primary:</b> 330m challenge, or piece,  165m, 1500m.]]></string>
+	<string name="mar30db"><![CDATA[<b>Dragon Boat:</b> Individual technique, race plans]]></string>
+	
+	<!-- Mar 23 -->
+	<string name="mar23primary"><![CDATA[<b>Primary:</b> 330m challenge, a 165m race piece and a 1500m race piece, with a db blade, rigged on the side you paddle, not switching sides.]]></string>
+	
+	<!-- Mar 16 -->
+	<string name="mar16coached"><![CDATA[<b>Coached:</b> 5 km steady]]></string>
+	<string name="mar16primary"><![CDATA[<b>Primary:</b> 2 x 2km turn and go]]></string>
+	<string name="mar16sec"><![CDATA[<b>Secondary:</b> No Workout ]]></string>
+	
+	<!-- Mar 9 -->
+	<string name="mar9coached"><![CDATA[<b>Coached:</b> 4 min <u>PES7</u>, 2 min <u>PES4</u>, repeating for 5km loop.]]></string>
+	<string name="mar9primary"><![CDATA[<b>Primary:</b> 4 x 1000m turn and go]]></string>
+	<string name="mar9sec"><![CDATA[<b>Secondary:</b> 15 x 2 min on at high tempo with 30 sec rest. Switching sides. First piece @ full start, the rest running.]]></string>
+	
+	<!-- Mar 2 -->
+	<string name="mar2coached"><![CDATA[<b>Coached:</b> 5 km timed race]]></string>
+	<string name="mar2primary"><![CDATA[<b>Primary:</b> Warm up to Cambie bridge, then 3 x 1500m turn and go]]></string>
+	<string name="mar2sec"><![CDATA[<b>Secondary:</b> <i>Fartlek.</i><br /> 60 sec on 20 sec off,<br /> 40 sec on 20 sec off,<br /> 20 sec on 20 sec off,<br /> 20 sec on 40 sec off,<br /> 40 sec on 40 sec off,<br /> 60 sec on 40 sec off,<br /> 20 sec on, 60 sec off,<br /> 40 sec on, 60 sec off,<br /> 60 sec on. <u>PES10</u>   ]]></string>
+	
+	<!-- Feb 23 -->
+	<string name="feb23coached"><![CDATA[<b>Coached:</b> Drills with OC blade]]></string>
+	<string name="feb23primary"><![CDATA[<b>Primary:</b> 20 x 40 sec on, 20 sec off. Full start on the first piece, running starts on the following pieces. Alternate sides on each piece. No switching sides during piece. <u>PES9</u>]]></string>
+	<string name="feb23sec"><![CDATA[<b>Secondary:</b> 12 x 3 min on at <u>PES7</u>, 30 sec off, switching sides. First piece @ full start, the rest running.]]></string>
+
+	<!-- Feb 16 -->
+	<string name="feb16coached"><![CDATA[<b>Coached:</b> Race pieces in Alder Bay,  with a DB blade not switching sides, rigged on the side you paddle.]]></string>
+	<string name="feb16primary"><![CDATA[<b>Primary:</b> 3 x 165m, then 3 x 330m <br />With DB blade, not switching sides, rigged on side you paddle]]></string>
+	<string name="feb16sec"><![CDATA[<b>Secondary:</b> Starts: 3 strokes, 6 strokes, 10 stokes, 20 strokes. <u>PES10.</u> Set watch for 1 min repeat. Go on the beep. Repeat 10 times, with a DB blade not switching sides, rigged on the side you paddle.]]></string>
+	
+	<!-- Feb 9 -->
+	<string name="feb9coached"><![CDATA[<b>Coached:</b> 3 x 1500m turn and go]]></string>
+	<string name="feb9primary"><![CDATA[<b>Primary:</b> 30 x 1min on at <u>PES8</u>, 30 sec off switching sides, first piece full start, the rest running.]]></string>
+	<string name="feb9sec"><![CDATA[<b>Secondary:</b> 5k TT course, using good technique, working on race lines and mental prep.]]></string>
+	
+	<!-- Feb 2 -->
+	<string name="feb2coached"><![CDATA[<b>Coached:</b> 3 x 1500m turn and go]]></string>
+	<string name="feb2primary"><![CDATA[<b>Primary:</b> 2 x 165m, then 2 x 330m <br />With DB blade, not switching sides, rigged on side you paddle]]></string>
+	<string name="feb2sec"><![CDATA[<b>Secondary:</b> 5 x 1k turn and go]]></string>
+	
+	<!-- Jan 26 -->
+	<string name="jan26coached"><![CDATA[<b>Coached:</b> 2 x 1k turn and go]]></string>
+	<string name="jan26primary"><![CDATA[<b>Primary:</b> 3 x 165m, then 2 x 330m <br />With DB blade, not switching sides, rigged on side you paddle]]></string>
+	<string name="jan26sec"><![CDATA[<b>Secondary:</b> 5, 4, 3, 2, 1, 1, 2, 3, 4, 5 min at high tempo, with 1 min rest in between]]></string>
+
+	<!-- Jan 19 -->
+	<string name="jan19coached"><![CDATA[<b>Coached:</b> 2 x 2k turn and go]]></string>
+	<string name="jan19primary"><![CDATA[<b>Primary:</b> 2 x 165m, then 2 x 330m <br />With DB blade, not switching sides, rigged on side you paddle]]></string>
+	<string name="jan19sec"><![CDATA[<b>Secondary:</b> 5(5 min on 2:30 min rest <u>PES8</u>) <br />Accelerate for 20 strokes on half way mark of every 5 min piece. Like a running start. Or Jericho 10km small boat race.]]></string>
+	
+	<!-- Jan 12 -->
+	<string name="jan12coached"><![CDATA[<b>Coached:</b> 10 x Alder Bay Sprints]]></string>
+	<string name="jan12primary"><![CDATA[<b>Primary:</b> 1 min <u>PES9</u>, 1 min rest <br /> 5 min - (1 min <u>PES4</u>, 2 min <u>PES8</u>, 1 min <u>PES6</u>, 1 min <u>PES2</u>) 2 min rest <br /> 30 strokes <u>PES10</u>, 2 min rest <br /> 3 min - (1 min <u>PES9</u>, 1 min <u>PES3</u>, 1 min <u>PES7</u>) 1 min rest <br /> 6 min - (2 min <u>PES3</u>, 1 min <u>PES9</u>, 2 min <u>PES2</u>, 1 min <u>PES7</u>) 3 min rest <br /> 20 strokes <u>PES10</u>, 1 min rest <br /> 2 min - (1 min <u>PES3</u>, 1 min <u>PES8</u>) 2 min rest <br /> 3 min - (1 min <u>PES4</u>, 1 min <u>PES8</u>, 1 min <u>PES2</u>)]]></string>
+	<string name="jan12sec"><![CDATA[<b>Secondary:</b> Lotus Ice Breaker, if not racing, self timed practice 5k time trial]]></string>
+	
+	<!-- Jan 5 -->
+	<string name="jan5coached"><![CDATA[<b>Coached:</b> 1, 2, 3, 4, 5, 4, 3, 2, 1 mins with 1 min rest at high tempo]]></string>
+	<string name="jan5primary"><![CDATA[<b>Primary:</b> 2(16(1 min on 30 sec rest) 4 min rest) <u>PES9</u>]]></string>
+	<string name="jan5sec"><![CDATA[<b>Secondary:</b> 2(8(2 min on 30 sec rest) 4 min rest) <u>PES8</u>]]></string>
+	
+	<!-- Dec 29 -->
+	<string name="dec29coached"><![CDATA[<b>Coached:</b> 1 165m time trial at <u>PES10</u> with an OC blade, followed by a 330m time trial <u>PES9</u> with an OC blade.]]></string>
+	<string name="dec29primary"><![CDATA[<b>Primary:</b> 20(1 min on, 30 sec rest) <u>PES9</u>. First one with full start, the following ones with running starts.]]></string>
+	<string name="dec29sec"><![CDATA[<b>Secondary:</b> 10(2 min on, 30 sec rest) <u>PES8</u>. First one with full start, the following ones with running starts.]]></string>
+	
+	<!-- Dec 22 -->
+	<string name="dec22"><![CDATA[<b>Bonus:</b> 3(10 min <u>PES3</u>, 2.5 min off, 1 min <u>PES9</u> with start, 2.5 min off]]></string>
+	
+	<!-- Dec 15 -->
+	<string name="dec15coached"><![CDATA[<b>Coached:</b> 3(Starts with rest, then 10 min PES2)]]></string>
+	<string name="dec15primary"><![CDATA[<b>Primary:</b> 3(20 sec <u>PES9</u>, 5 min rest, 5 min PES3, 5 min rest)]]></string>
+	<string name="dec15sec"><![CDATA[<b>Secondary:</b> 2 min on, 3 min on, 4 min, 5 min, 4 min, 3 min, 2 min, with 1 min rest in between, <u>PES5</u>]]></string>
+	<string name="dec15bonus"><![CDATA[<b>Bonus:</b> 5km loop at <u>PES3</u>, with 20 min stroke accelerations every 2 min]]></string>
+	
+	<!-- Dec 8 -->
+	<string name="dec8coached"><![CDATA[<b>Coached:</b> 30 min loop between Cambie and Science world <u>PES3</u>]]></string>
+	<string name="dec8primary"><![CDATA[<b>Primary:</b> 2 min <u>PES8</u>, 1 min active rest doing 5km loop]]></string>
+	<string name="dec8sec"><![CDATA[<b>Secondary:</b> Starts: 5(5 strokes, 10 strokes, 20 strokes with 1 min rest) <u>PES9</u>]]></string>
+	<string name="dec8bonus"><![CDATA[<b>Bonus:</b> 5 km Time Trial!]]></string>
+	
+	<!-- Dec 1 -->
+	<string name="dec1coached"><![CDATA[<b>Coached:</b> 30 min loop between Cambie and Science world <u>PES4</u>]]></string>
+	<string name="dec1primary"><![CDATA[<b>Primary:</b> 3 min <u>PES4</u>, 6 min <u>PES8</u> doing 5km loop. No rest.]]></string>
+	<string name="dec1sec"><![CDATA[<b>Secondary:</b> Starts: 2(1 stroke, 3 strokes, 6 strokes, 10 strokes with 1 min rest) <u>PES10</u>.  Then 2(3(20 sec <u>PES9</u>, 1 min rest), 4 min rest)]]></string>
+	<string name="dec1bonus"><![CDATA[<b>Bonus:</b> 2 min PES4, 8 min <u>PES8</u> doing 5km loop. No rest.]]></string>
+	
+	<!-- Nov 24 -->
+	<string name="nov24coached"><![CDATA[<b>Coached:</b> 4(10 min <u>PES3</u>, 1 min off)]]></string>
+	<string name="nov24primary"><![CDATA[<b>Primary:</b> 10 min <u>PES3</u>, 10 min <u>PES5</u>, 10 min <u>PES7</u>, 2 min active rest]]></string>
+	<string name="nov24sec"><![CDATA[<b>Secondary:</b> 4 min <u>PES3</u>, 8 min <u>PES7</u> doing 5km loop. No rest.]]></string>
+	<string name="nov24bonus"><![CDATA[<b>Bonus:</b> 5km loop <u>PES6</u>]]></string>
+	
+	<!-- Nov 17 -->
+	<string name="nov17coached"><![CDATA[<b>Coached:</b> 6(5 min <u>PES3</u>, 2.5 min off)]]></string>
+	<string name="nov17primary"><![CDATA[<b>Primary:</b> 2(15min <u>PES4</u>, 2.5 min off)]]></string>
+	<string name="nov17sec"><![CDATA[<b>Secondary:</b> 10 min <u>PES4</u>, 10 min <u>PES2</u>, 10 min <u>PES6</u>, 2.5 min rest]]></string>
+	<string name="nov17bonus"><![CDATA[<b>Bonus:</b> 4 min <u>PES2</u>, 8 min <u>PES6</u> doing 5km loop. No rest.]]></string>
+	
+	<!-- Nov 10 -->
+	<string name="nov10coached"><![CDATA[<b>Coached:</b> 3(10 min <u>PES2</u>, 2 min off)]]></string>
+	<string name="nov10primary"><![CDATA[<b>Primary:</b> 2(15min <u>PES3</u>, 5 min off)]]></string>
+	<string name="nov10sec"><![CDATA[<b>Secondary:</b> 10 min <u>PES3</u>, 5 min rest, 10 min <u>PES5</u>, 5 min rest, 10 min <u>PES7</u>]]></string>
+	<string name="nov10bonus"><![CDATA[<b>Bonus:</b> 5 min <u>PES2</u>, 10 min <u>PES5</u> doing 5km loop. No rest.]]></string>
+	
+	<!-- Nov 3 -->
+	<string name="nov3coached"><![CDATA[<b>Coached:</b> 3(6 min <u>PES2</u>, 6 min off)]]></string>
+	<string name="nov3primary"><![CDATA[<b>Primary:</b> 3(10 min <u>PES2</u>, 5 min off)]]></string>
+	<string name="nov3sec"><![CDATA[<b>Secondary:</b> 2km <u>PES3</u> doing Alcan 2km course]]></string>
+	<string name="nov3bonus"><![CDATA[<b>Bonus:</b> 5min <u>PES4</u>, 2.5 min off doing 5km loop]]></string>
+	
+	<!-- Oct 27 -->
+	<string name="oct27coached"><![CDATA[<b>Coached:</b> 2(4 min <u>PES2</u>, 1 min off)]]></string>
+	<string name="oct27primary"><![CDATA[<b>Primary:</b> 2 x 2km <u>PES3</u> doing Alcan 2km course, 2 min rest]]></string>
+	<string name="oct27sec"><![CDATA[<b>Secondary:</b> 4(4 min <u>PES3</u>, 2 min off, 1 min <u>PES8</u>, 5 min rest)]]></string>
+	<string name="oct27bonus"><![CDATA[<b>Bonus:</b> 5km loop <u>PES4</u>]]></string>
+	
+	<!-- Oct 20 -->
+	<string name="oct20coached"><![CDATA[<b>Coached:</b> 3(3(3 min <u>PES2</u>, 1 min off) 10 min rest)]]></string>
+	<string name="oct20primary"><![CDATA[<b>Primary:</b> 1, 2, 3, 4, 5, 4, 3, 2, 1 min on, 1 min rest in between.  <u>PES5</u>, 4, 3, 2, 2, 3, 4, 5, 6]]></string>
+	<string name="oct20sec"><![CDATA[<b>Secondary:</b> 4(2 min <u>PES3</u>, 2 min <u>PES5</u>, 2 min <u>PES7</u>, 4 min rest)]]></string>
+	<string name="oct20bonus"><![CDATA[<b>Bonus:</b> 5km loop <u>PES2</u>]]></string>
+    
+</resources>

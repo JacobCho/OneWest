@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Link Titles for InfoLinks -->
+	<string-array name="linktitles">
+	    <item>Attendance Google Doc</item>
+	    <item>OC-1 Coached Sessions Sign-up</item>
+	    <item>Women\'s OC-6 Signup Doodle</item>
+	    <item>Men\'s OC-6 Signup Doodle</item>
+	    <item>Women\'s DB Signup Doodle</item>
+	    <item>Lotus Ice Breaker Directions</item>
+	    <item>March Madness Directions</item>
+	    <item>CORA Sprints Directions</item>
+	    <item>Spanaway, Washington Directions</item>
+	    <item>Green Lake, Washington Directions</item>
+	    <item>Silver Lake, Washington Directions</item>
+	    <item>Alcan Festival Directions</item>
+	    <item>Harrison Directions</item>
+	</string-array>
+	    
+	    <!-- Group Titles for Important Dates -->
+	<string-array name="ImpDates">
+	    <item>General Preparation Period (Nov to Dec)</item>
+	    <item>Sport Specific Phase (Jan to Mar)</item>
+	    <item>Pre-Competition Phase (Mar to Jun)</item>
+	    <item>Competition Phase (Jun to Aug)</item>
+	    <item>Peak Taper Phase (August)</item>
+	    <item>Club Crew Championships in Ravenna, Italy (Sept 3 to 7)</item>
+	</string-array>
+	
+	<!-- IMPORANT DATES -->
+	<!-- General Preparation Phase -->
+	<string name="GPP"><![CDATA[<u>December 14th:</u> 5km Time Trial]]></string>
+	
+	<!-- Sport Specific Phase -->
+	<string name="SSP1"><![CDATA[Start OC-6 out of Burrard Marina: <br />Men: Sunday @ 8:15am<br />Women: Thursday @ 6:30pm]]></string>
+	<string name="SSP2"><![CDATA[<u>Jan 18:</u> Lotus Ice Breaker:<br />Mixed start @ 11:30am<br />Open start @ 12:15pm]]></string>
+	<string name="SSP3"><![CDATA[<u>Feb 15:</u> 5k TT, noon to 3pm]]></string>
+	<string name="SSP4"><![CDATA[<u>Feb 22:</u> 165m & 330m TT]]></string>
+	<string name="SSP5"><![CDATA[<u>Mar 22:</u> March Madness]]></string>
+	
+	<!-- Pre Competition Phase -->
+	<string name="PCP1"><![CDATA[DB Practices Start, 1 Mixed and  1 Open in addition to OC-6 and SBC]]></string>
+	<string name="PCP2"><![CDATA[DB out of Creekside, Open starts Mar 24, Mixed starts Mar 26, 6 to 7:30pm]]></string>
+	<string name="PCP3"><![CDATA[<u>April 26:</u> Cora Sprints in Burnaby]]></string>
+	<string name="PCP4"><![CDATA[<u>May 17:</u> PNW Sprints in Spanaway, Washington]]></string>
+	<string name="PCP5"><![CDATA[<u>May 24:</u> PNW Sprints in Green Lake, Washington]]></string>
+	<string name="PCP6"><![CDATA[<u>May 31:</u> 5k Time Trial]]></string>
+	
+	<!-- Competition Phase -->
+	<string name="CP1"><![CDATA[DB increased to 1 mixed, 1 open, 2 combined practices/week]]></string>
+	<string name="CP2"><![CDATA[<u>Jun 6:</u> Alcan Rosters set]]></string>
+	<string name="CP3"><![CDATA[<u>Jun 7:</u> Alcan Regatta for B team]]></string>
+	<string name="CP4"><![CDATA[<u>Jun 14:</u> PNW Sprints in Silver Lake, Washington]]></string>
+	<string name="CP5"><![CDATA[<u>Jun 21 & 22:</u> Alcan Festival]]></string>
+	<string name="CP6"><![CDATA[<u>Jun 28:</u> 330m and 165m Time Trials]]></string>
+	<string name="CP7"><![CDATA[<u>Jul 19:</u> 5k Time Trial]]></string>
+	<string name="CP8"><![CDATA[<u>Jul 20:</u> Fitness Test]]></string>
+	<string name="CP9"><![CDATA[<u>Jul 26:</u> Harrison DB Festival]]></string>
+	
+	<!-- Peak Taper Phase -->
+	<string name="PTP1"><![CDATA[<u>Aug 2:</u> One West Regatta]]></string>
+	<string name="PTP2"><![CDATA[<u>Aug 16:</u> 5k Time Trial]]></string>
+	<string name="PTP3"><![CDATA[<u>Aug 17:</u> Fitness Test]]></string>
+	
+	<!-- Club Crews -->
+	<string name="CCWC1"><![CDATA[Crush fools]]></string>
+	<string name="CCWC2"><![CDATA[Collect medals]]></string>
+	<string name="CCWC3"><![CDATA[Live lives as champions (Campione in Italian)]]></string>
+</resources>

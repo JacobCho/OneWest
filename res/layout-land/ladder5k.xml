@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<LinearLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal" >
+	    <RelativeLayout 
+	    android:id="@+id/leftpanel"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1"
+	    android:orientation="horizontal"   >
+	    <LinearLayout
+	        android:id="@+id/titlePanel" 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content">
+	        
+		    <GridView 
+		        android:id="@+id/titleGrid"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:numColumns="4"
+		         />
+	
+	    </LinearLayout>
+	    <LinearLayout
+	        android:id="@+id/resultsPanel" 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_below="@id/titlePanel">
+	
+	    <GridView
+	        android:id="@+id/menGrid"
+	        android:layout_width="wrap_content"
+	        android:layout_height="800dp"
+	        android:numColumns="4" >
+	    </GridView>
+	    </LinearLayout>
+	</RelativeLayout>
+		<RelativeLayout
+		    android:id="@+id/rightpanel"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:orientation="horizontal"
+		    android:layout_weight="1"
+		     >
+
+		    <LinearLayout 
+		        android:id="@+id/wTitlePanel"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content">
+			    <GridView
+			        android:id="@+id/wTitle"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:numColumns="4"/>
+		        
+		    </LinearLayout>
+		    <LinearLayout 
+		        android:id="@+id/wResultsPanel"
+		        android:layout_below="@id/wTitlePanel"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content">
+		   <GridView 
+		       android:id="@+id/womenGrid"
+		       android:layout_width="match_parent"
+		       android:layout_height="450dp"
+		       android:numColumns="4">
+		       
+		   </GridView>
+		    </LinearLayout>
+		    
+		</RelativeLayout>
+</LinearLayout>
+</ScrollView>

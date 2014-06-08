@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkgrey" 
+    android:orientation="vertical">
+    
+    <ImageView
+        android:id="@+id/menupic"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        android:src="@drawable/james"
+        android:contentDescription="Menu Pic"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"/>
+    <LinearLayout
+        android:id="@+id/menupadtop"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_below="@id/menupic"
+        android:orientation="horizontal">
+    </LinearLayout>
+    
+    <TextView 
+        android:id="@+id/road"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_below="@id/menupadtop"
+        android:text="@string/road"
+        android:textSize="23sp"
+        android:textColor="@color/white"
+        android:gravity="center"/>
+    <LinearLayout
+        android:id="@+id/menupadbottom"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_below="@id/road"
+        android:orientation="horizontal">
+    </LinearLayout>
+    
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="false"
+        android:layout_below="@id/menupadbottom"
+        android:background="@color/darkgrey" />
+  
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/listView1"
+        android:layout_marginTop="30dp">
+    
+    <ImageView
+        android:id="@+id/logobottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp"
+        android:src="@drawable/fist" />
+    
+    </RelativeLayout>
+
+</RelativeLayout>

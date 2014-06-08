@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">One West 2013/2014</string>
+    <string name="action_settings">Settings</string>
+	<string name="WeeksOf">Work Outs For The Weeks Of:</string>
+	<string name="road">#Road2Ravenna</string>
+	<string name="owdb">One West Dragon Boat</string>
+	
+	<!-- Nav Menu Titles -->
+	<string-array name="menu">
+	    <item>Workouts</item>
+	    <item>Information</item>
+	    <item>Ladders</item>
+	</string-array>
+	
+	<!-- Gif Titles for Giflist -->
+	<string-array name="giflinks">
+	    <item>Back Extensions</item>
+	    <item>Back Squat</item>
+	    <item>Big Terr Bear</item>
+	    <item>Illiterate Crazy Cormorant</item>
+	    <item>Laying Dumbbell Tricep Extension</item>
+	    <item>Med ball Situp Throw</item>
+	    <item>Overhead Dumbell Tricep Extensions</item>
+	    <item>Pike</item>
+	    <item>Plate Around Head</item>
+	    <item>Power Clean</item>
+	    <item>Push Press</item>
+	    <item>Russian Twists</item>
+	    <item>Seated Hammer Curls</item>
+	    <item>Snatch Grip Deadlift</item>
+	    
+	    </string-array>
+
+</resources>
