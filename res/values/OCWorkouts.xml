@@ -3,6 +3,14 @@
 
 	<!-- Group Titles for OCWorkoutsFragment -->
 	<string-array name="OCDates">
+	    <item>Aug 10</item>
+	    <item>Aug 3</item>
+	    <item>Jul 27</item>
+	    <item>Jul 20</item>
+	    <item>Jul 13</item>
+	    <item>Jul 6</item>
+	    <item>Jun 29</item>
+	    <item>Jun 22</item>
 	    <item>Jun 15</item>
 	    <item>Jun 8</item>
 	    <item>Jun 1</item>
@@ -42,6 +50,46 @@
 	</string-array>
 	
 	<!-- OC WORKOUTS -->
+	<!-- Aug 10 -->
+	<string name="aug10primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="aug10sec"><![CDATA[<b>Secondary:</b> 2 min <u>PES8</u>, 1 min <u>PES3</u> in the 5km loop. No rest]]></string>
+	<string name="aug10db"><![CDATA[<b>Dragon Boat:</b> 100m work (starts)]]></string>
+	
+	<!-- Aug 3 -->
+	<string name="aug3primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="aug3sec"><![CDATA[<b>Secondary:</b> (1 min on, 30 sec off) x 40 @ 200m pace]]></string>
+	<string name="aug3db"><![CDATA[<b>Dragon Boat:</b> 200m work]]></string>
+	
+	<!-- Jul 27 -->
+	<string name="jul27primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="jul27sec"><![CDATA[<b>Secondary:</b> (2 min on, 1 min off) x 20 @ 500m pace]]></string>
+	<string name="jul27db"><![CDATA[<b>Dragon Boat:</b> 500m work]]></string>
+	
+	<!-- Jul 20 -->
+	<string name="jul20primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="jul20sec"><![CDATA[<b>Secondary:</b> (9 min on, 3 min off) x 5 @ 2000m pace]]></string>
+	<string name="jul20db"><![CDATA[<b>Dragon Boat:</b> 2000m work]]></string>
+	
+	<!-- Jul 13 -->
+	<string name="jul13primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="jul13sec"><![CDATA[<b>Secondary:</b> 2 min <u>PES8</u>, 1 min <u>PES3</u> in the 5km loop. No rest]]></string>
+	<string name="jul13db"><![CDATA[<b>Dragon Boat:</b> 2000m work]]></string>
+	
+	<!-- Jul 6 -->
+	<string name="jul6primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="jul6sec"><![CDATA[<b>Secondary:</b> 4 min <u>PES7</u>, 2 min <u>PES4</u> in the 5km loop. No rest]]></string>
+	<string name="jul6db"><![CDATA[<b>Dragon Boat:</b> 500m work]]></string>
+	
+	<!-- Jun 29 -->
+	<string name="jun29primary"><![CDATA[<b>Primary:</b> 1 x 165m, 1 x 330m, 1 x 1500m]]></string>
+	<string name="jun29sec"><![CDATA[<b>Secondary:</b> 5k practice TT]]></string>
+	<string name="jun29db"><![CDATA[<b>Dragon Boat:</b> 200m work]]></string>
+	
+	<!-- Jun 22 -->
+	<string name="jun22primary"><![CDATA[<b>Primary:</b> 2 x 165m, 2 x 330m]]></string>
+	<string name="jun22db"><![CDATA[<b>Dragon Boat:</b> Technical work]]></string>
+	
+	
 	<!-- Jun 15 -->
 	<string name="jun15primary"><![CDATA[<b>Primary:</b> 3 strokes, 6 strokes, 10 strokes, x 10, on a minute beep]]></string>
 	<string name="jun15db"><![CDATA[<b>Dragon Boat:</b> 500m skeletons.]]></string>

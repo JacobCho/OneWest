@@ -103,6 +103,42 @@ public class GymWorkoutsFragment extends Fragment {
     private class AnimatedAdapter extends AnimatedExpandableListAdapter {
     	
     	Resources res = getResources();
+    	// Jul 14 to Aug 4
+    	CharSequence jultoaugday1 = Html.fromHtml(getString(R.string.jultoaugday1));
+    	CharSequence jultoaugday1a = Html.fromHtml(getString(R.string.jultoaugday1a));
+    	CharSequence jultoaugday1b = Html.fromHtml(getString(R.string.jultoaugday1b));
+    	CharSequence jultoaugday2 = Html.fromHtml(getString(R.string.jultoaugday2));
+    	CharSequence jultoaugday2a = Html.fromHtml(getString(R.string.jultoaugday2a));
+    	CharSequence jultoaugday2b = Html.fromHtml(getString(R.string.jultoaugday2b));
+    	CharSequence jultoaugday2c = Html.fromHtml(getString(R.string.jultoaugday2c));
+    	CharSequence jultoaugcore = Html.fromHtml(getString(R.string.jultoaugcore));
+    	
+    	// Jun 23 to Jul 13
+    	CharSequence postalcanday1 = Html.fromHtml(getString(R.string.postalcanday1));
+    	CharSequence postalcanday1a = Html.fromHtml(getString(R.string.postalcanday1a));
+    	CharSequence postalcanday1b = Html.fromHtml(getString(R.string.postalcanday1b));
+    	CharSequence postalcanday1c = Html.fromHtml(getString(R.string.postalcanday1c));
+    	CharSequence postalcanday2 = Html.fromHtml(getString(R.string.postalcanday2));
+    	CharSequence postalcanday2a = Html.fromHtml(getString(R.string.postalcanday2a));
+    	CharSequence postalcanday2b = Html.fromHtml(getString(R.string.postalcanday2b));
+    	CharSequence postalcanday2c = Html.fromHtml(getString(R.string.postalcanday2c));
+    	CharSequence postalcancore = Html.fromHtml(getString(R.string.postalcancore));
+    	
+    	// Jun 16 to 22
+    	CharSequence prealcanday1 = Html.fromHtml(getString(R.string.prealcanday1));
+    	CharSequence prealcanday1a = Html.fromHtml(getString(R.string.prealcanday1a));
+    	CharSequence prealcanday1b = Html.fromHtml(getString(R.string.prealcanday1b));
+    	CharSequence prealcanday2 = Html.fromHtml(getString(R.string.prealcanday2));
+    	CharSequence prealcanday2a = Html.fromHtml(getString(R.string.prealcanday2a));
+    	CharSequence prealcanday2b = Html.fromHtml(getString(R.string.prealcanday2b));
+    	CharSequence prealcanchinatitle = Html.fromHtml(getString(R.string.prealcanchinatitle));
+    	CharSequence prealcanchinaday1 = Html.fromHtml(getString(R.string.prealcanchinaday1));
+    	CharSequence prealcanchinaday1a = Html.fromHtml(getString(R.string.prealcanchinaday1a));
+    	CharSequence prealcanchinaday1b = Html.fromHtml(getString(R.string.prealcanchinaday1b));
+    	CharSequence prealcanchinaday2 = Html.fromHtml(getString(R.string.prealcanchinaday2));
+    	CharSequence prealcanchinaday2a = Html.fromHtml(getString(R.string.prealcanchinaday2a));
+    	CharSequence prealcanchinaday2b = Html.fromHtml(getString(R.string.prealcanchinaday2b));
+    	
     	// Jun 2 to 15
     	CharSequence juntojunday1 = Html.fromHtml(getString(R.string.juntojunday1));
     	CharSequence juntojunday1a = Html.fromHtml(getString(R.string.juntojunday1a));
@@ -264,6 +300,9 @@ public class GymWorkoutsFragment extends Fragment {
     	CharSequence ntnday3f = Html.fromHtml(getString(R.string.ntnday3f));
 
     	// Sets
+    	CharSequence []jultoaugsets = res.getTextArray(R.array.jultoaugsets);
+    	CharSequence []postalcansets = res.getTextArray(R.array.postalcansets);
+    	CharSequence []prealcansets = res.getTextArray(R.array.prealcansets);
     	CharSequence []juntojunsets = res.getTextArray(R.array.juntojunsets);
     	CharSequence []maytomaysets = res.getTextArray(R.array.maytomaysets);
     	CharSequence []raceatasets = res.getTextArray(R.array.raceatasets);
@@ -282,6 +321,12 @@ public class GymWorkoutsFragment extends Fragment {
     	private CharSequence[] groups = res.getTextArray(R.array.GymDates);
     	 
         private CharSequence[][] children = {
+        	// Jul 14 to Aug 4
+            {jultoaugday1, jultoaugday1a, jultoaugday1b, jultoaugday2, jultoaugday2a, jultoaugday2b, jultoaugday2c, jultoaugcore,},	
+        	// Jun 23 to Jul 13
+        	{postalcanday1, postalcanday1a, postalcanday1b, postalcanday1c, postalcanday2, postalcanday2a, postalcanday2b, postalcanday2c,postalcancore,},
+        	// Jun 16 to 22
+        	{prealcanday1, prealcanday1a, prealcanday1b, prealcanday2, prealcanday2a, prealcanday2b, prealcanchinatitle, prealcanchinaday1, prealcanchinaday1a, prealcanchinaday1b, prealcanchinaday2, prealcanchinaday2a, prealcanchinaday2b},	
         	// Jun 2 to 15
         	{ juntojunday1, juntojunday1a, juntojunday1b, juntojunday1c, juntojunday2, juntojunday2a, juntojunday2b, juntojunday2c, juntojuncore},	
         	// May 12 to 31	
@@ -320,6 +365,13 @@ public class GymWorkoutsFragment extends Fragment {
         };
         
         private CharSequence[][] sets = {
+        		// Jul 14 to Aug 4
+        		{jultoaugsets[0],jultoaugsets[1],jultoaugsets[2],jultoaugsets[3],jultoaugsets[4],jultoaugsets[5],jultoaugsets[6],jultoaugsets[7]},
+        		// Jun 23 to Jul 13
+        		{postalcansets[0],postalcansets[1],postalcansets[2],postalcansets[3],postalcansets[4],postalcansets[5],postalcansets[6],postalcansets[7],postalcansets[8]},
+        		// Jun 16 to 22
+        		{prealcansets[0],prealcansets[1],prealcansets[2],prealcansets[3],prealcansets[4],prealcansets[5],prealcansets[6],prealcansets[7],prealcansets[8],prealcansets[9],prealcansets[10],prealcansets[11],prealcansets[12]},
+        		
         		// Jun 2 to 15
         		{juntojunsets[0],juntojunsets[1],juntojunsets[2],juntojunsets[3],juntojunsets[4],juntojunsets[5],juntojunsets[6],juntojunsets[7],juntojunsets[8]},
         		
@@ -438,6 +490,42 @@ public class GymWorkoutsFragment extends Fragment {
         private class AlternateAdapter extends BaseExpandableListAdapter {
         	
         	Resources res = getResources();
+        	// Jul 14 to Aug 4
+        	CharSequence jultoaugday1 = Html.fromHtml(getString(R.string.jultoaugday1));
+        	CharSequence jultoaugday1a = Html.fromHtml(getString(R.string.jultoaugday1a));
+        	CharSequence jultoaugday1b = Html.fromHtml(getString(R.string.jultoaugday1b));
+        	CharSequence jultoaugday2 = Html.fromHtml(getString(R.string.jultoaugday2));
+        	CharSequence jultoaugday2a = Html.fromHtml(getString(R.string.jultoaugday2a));
+        	CharSequence jultoaugday2b = Html.fromHtml(getString(R.string.jultoaugday2b));
+        	CharSequence jultoaugday2c = Html.fromHtml(getString(R.string.jultoaugday2c));
+        	CharSequence jultoaugcore = Html.fromHtml(getString(R.string.jultoaugcore));
+        	
+        	// Jun 23 to Jul 13
+        	CharSequence postalcanday1 = Html.fromHtml(getString(R.string.postalcanday1));
+        	CharSequence postalcanday1a = Html.fromHtml(getString(R.string.postalcanday1a));
+        	CharSequence postalcanday1b = Html.fromHtml(getString(R.string.postalcanday1b));
+        	CharSequence postalcanday1c = Html.fromHtml(getString(R.string.postalcanday1c));
+        	CharSequence postalcanday2 = Html.fromHtml(getString(R.string.postalcanday2));
+        	CharSequence postalcanday2a = Html.fromHtml(getString(R.string.postalcanday2a));
+        	CharSequence postalcanday2b = Html.fromHtml(getString(R.string.postalcanday2b));
+        	CharSequence postalcanday2c = Html.fromHtml(getString(R.string.postalcanday2c));
+        	CharSequence postalcancore = Html.fromHtml(getString(R.string.postalcancore));
+        	
+        	// Jun 16 to 22
+        	CharSequence prealcanday1 = Html.fromHtml(getString(R.string.prealcanday1));
+        	CharSequence prealcanday1a = Html.fromHtml(getString(R.string.prealcanday1a));
+        	CharSequence prealcanday1b = Html.fromHtml(getString(R.string.prealcanday1b));
+        	CharSequence prealcanday2 = Html.fromHtml(getString(R.string.prealcanday2));
+        	CharSequence prealcanday2a = Html.fromHtml(getString(R.string.prealcanday2a));
+        	CharSequence prealcanday2b = Html.fromHtml(getString(R.string.prealcanday2b));
+        	CharSequence prealcanchinatitle = Html.fromHtml(getString(R.string.prealcanchinatitle));
+        	CharSequence prealcanchinaday1 = Html.fromHtml(getString(R.string.prealcanchinaday1));
+        	CharSequence prealcanchinaday1a = Html.fromHtml(getString(R.string.prealcanchinaday1a));
+        	CharSequence prealcanchinaday1b = Html.fromHtml(getString(R.string.prealcanchinaday1b));
+        	CharSequence prealcanchinaday2 = Html.fromHtml(getString(R.string.prealcanchinaday2));
+        	CharSequence prealcanchinaday2a = Html.fromHtml(getString(R.string.prealcanchinaday2a));
+        	CharSequence prealcanchinaday2b = Html.fromHtml(getString(R.string.prealcanchinaday2b));
+        	
         	// Jun 2 to 15
         	CharSequence juntojunday1 = Html.fromHtml(getString(R.string.juntojunday1));
         	CharSequence juntojunday1a = Html.fromHtml(getString(R.string.juntojunday1a));
@@ -599,6 +687,9 @@ public class GymWorkoutsFragment extends Fragment {
         	CharSequence ntnday3f = Html.fromHtml(getString(R.string.ntnday3f));
 
         	// Sets
+        	CharSequence []jultoaugsets = res.getTextArray(R.array.jultoaugsets);
+        	CharSequence []postalcansets = res.getTextArray(R.array.postalcansets);
+        	CharSequence []prealcansets = res.getTextArray(R.array.prealcansets);
         	CharSequence []juntojunsets = res.getTextArray(R.array.juntojunsets);
         	CharSequence []maytomaysets = res.getTextArray(R.array.maytomaysets);
         	CharSequence []raceatasets = res.getTextArray(R.array.raceatasets);
@@ -617,6 +708,12 @@ public class GymWorkoutsFragment extends Fragment {
         	private CharSequence[] groups = res.getTextArray(R.array.GymDates);
         	 
             private CharSequence[][] children = {
+            	// Jul 14 to Aug 4
+                {jultoaugday1, jultoaugday1a, jultoaugday1b, jultoaugday2, jultoaugday2a, jultoaugday2b, jultoaugday2c, jultoaugcore,},
+            	// Jun 23 to Jul 13
+                {postalcanday1, postalcanday1a, postalcanday1b, postalcanday1c, postalcanday2, postalcanday2a, postalcanday2b, postalcanday2c,postalcancore,},
+            	// Jun 16 to 22
+                {prealcanday1, prealcanday1a, prealcanday1b, prealcanday2, prealcanday2a, prealcanday2b, prealcanchinatitle, prealcanchinaday1, prealcanchinaday1a, prealcanchinaday1b, prealcanchinaday2, prealcanchinaday2a, prealcanchinaday2b},
             	// Jun 2 to 15
                 { juntojunday1, juntojunday1a, juntojunday1b, juntojunday1c, juntojunday2, juntojunday2a, juntojunday2b, juntojunday2c, juntojuncore},
             	// May 12 to 31
@@ -655,6 +752,15 @@ public class GymWorkoutsFragment extends Fragment {
             };
             
             private CharSequence[][] sets = {
+            		// Jul 14 to Aug 4
+            		{jultoaugsets[0],jultoaugsets[1],jultoaugsets[2],jultoaugsets[3],jultoaugsets[4],jultoaugsets[5],jultoaugsets[6],jultoaugsets[7]},
+            		
+            		// Jun 23 to Jul 13
+            		{postalcansets[0],postalcansets[1],postalcansets[2],postalcansets[3],postalcansets[4],postalcansets[5],postalcansets[6],postalcansets[7],postalcansets[8]},
+            		
+            		// Jun 16 to 22
+            		{prealcansets[0],prealcansets[1],prealcansets[2],prealcansets[3],prealcansets[4],prealcansets[5],prealcansets[6],prealcansets[7],prealcansets[8],prealcansets[9],prealcansets[10],prealcansets[11],prealcansets[12]},
+            		
             		// Jun 2 to 15
             		{juntojunsets[0],juntojunsets[1],juntojunsets[2],juntojunsets[3],juntojunsets[4],juntojunsets[5],juntojunsets[6],juntojunsets[7],juntojunsets[8]},
             		

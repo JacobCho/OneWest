@@ -49,68 +49,74 @@ public class GifList extends Fragment{
                 			    Uri.parse("http://gfycat.com/MadHospitableFirecrest#?direction=reverse"));
                 			startActivity(terry);
                 			break;
-            			
+                			
             	case 3:
+            		Intent grappler = new Intent(android.content.Intent.ACTION_VIEW, 
+                			    Uri.parse("http://gfycat.com/TinyGorgeousConey"));
+                			startActivity(grappler);
+                			break;
+                
+            	case 4:
             		Intent crazy = new Intent(android.content.Intent.ACTION_VIEW, 
                 			    Uri.parse("http://gfycat.com/IlliterateCrazyCormorant"));
                 			startActivity(crazy);
                 			break;
                 			
-            	case 4:
+            	case 5:
             		Intent lyingtris = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/IdealisticHappygoluckyBasenji"));
             			startActivity(lyingtris);
             			break;			
             			
-            	case 5:
+            	case 6:
             		Intent medball = new Intent(android.content.Intent.ACTION_VIEW, 
                 			    Uri.parse("http://gfycat.com/ExemplaryShockingAmericankestrel"));
                 			startActivity(medball);
                 			break;
                 			
-            	case 6:
+            	case 7:
             		Intent overheadtricep = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/SillyWeeklyArizonaalligatorlizard"));
             			startActivity(overheadtricep);
             			break; 			
       			
-            	case 7:
+            	case 8:
             		Intent hangingpike = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/AnnualScientificHamadryas"));
             			startActivity(hangingpike);
             			break;		
             			
-            	case 8:
+            	case 9:
             		Intent plate = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/WhisperedImpressionableAntarcticgiantpetrel"));
             			startActivity(plate);
             			break;
             			
-            	case 9:
+            	case 10:
             		Intent powerclean = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/SorrowfulImmaterialImpala"));
             			startActivity(powerclean);
             			break;
             			
-            	case 10:
+            	case 11:
             		Intent pushpress = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/ScaryVelvetyConure"));
             			startActivity(pushpress);
             			break;
             	
-            	case 11:
+            	case 12:
             		Intent russian = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/LikelyFortunateDodobird"));
             			startActivity(russian);
             			break;		
             			
-            	case 12:
+            	case 13:
             		Intent hammer = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/IllWhichIslandwhistler"));
             			startActivity(hammer);
             			break;
             			
-            	case 13:
+            	case 14:
             		Intent snatch = new Intent(android.content.Intent.ACTION_VIEW, 
             			    Uri.parse("http://gfycat.com/NauticalEmbellishedBedlingtonterrier"));
             			startActivity(snatch);

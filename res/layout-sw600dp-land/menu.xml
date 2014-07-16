@@ -9,7 +9,7 @@
         android:id="@+id/menupic"
         android:layout_width="match_parent"
         android:layout_height="145dp"
-        android:src="@drawable/james"
+        android:src="@drawable/alcan"
         android:contentDescription="Menu Pic"
         android:layout_alignParentTop="true"
         android:layout_marginLeft="0dp"

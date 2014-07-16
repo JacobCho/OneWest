@@ -14,7 +14,7 @@ public final class R {
         public static final int GymDates=0x7f0b0000;
         /**  Group Titles for Important Dates 
          */
-        public static final int ImpDates=0x7f0b0010;
+        public static final int ImpDates=0x7f0b0013;
         /**  Group Titles for OCWorkoutsFragment 
   
 	    <item>Feb 23</item>
@@ -37,60 +37,69 @@ public final class R {
 	    <item>Oct 27</item>
 	    <item>Oct 20</item> 
          */
-        public static final int OCDates=0x7f0b0011;
+        public static final int OCDates=0x7f0b0014;
         /**  Sets 
          */
-        public static final int atasets=0x7f0b0004;
+        public static final int atasets=0x7f0b0007;
         /**  Sets 
          */
-        public static final int dtjsets=0x7f0b000c;
+        public static final int dtjsets=0x7f0b000f;
         /**  Sets 
          */
-        public static final int emtmsets=0x7f0b0006;
+        public static final int emtmsets=0x7f0b0009;
         /**  Sets 
          */
-        public static final int ftfsets=0x7f0b0009;
+        public static final int ftfsets=0x7f0b000c;
         /**  Sets 
          */
-        public static final int ftmsets=0x7f0b0008;
+        public static final int ftmsets=0x7f0b000b;
         /**  Gif Titles for Giflist 
          */
-        public static final int giflinks=0x7f0b0013;
+        public static final int giflinks=0x7f0b0016;
         /**  Sets 
          */
-        public static final int jtfsets1=0x7f0b000a;
+        public static final int jtfsets1=0x7f0b000d;
         /**  Sets 
          */
-        public static final int jtjsets=0x7f0b000b;
+        public static final int jtjsets=0x7f0b000e;
         /**  Sets 
          */
-        public static final int juntojunsets=0x7f0b0001;
+        public static final int jultoaugsets=0x7f0b0001;
+        /**  Sets 
+         */
+        public static final int juntojunsets=0x7f0b0004;
         /**  Link Titles for InfoLinks 
          */
-        public static final int linktitles=0x7f0b000f;
+        public static final int linktitles=0x7f0b0012;
         /**  Sets 
          */
-        public static final int maytomaysets=0x7f0b0002;
+        public static final int maytomaysets=0x7f0b0005;
         /**  Nav Menu Titles 
          */
-        public static final int menu=0x7f0b0012;
+        public static final int menu=0x7f0b0015;
         /**  Mar 31 to Apr 13 
  SAME AS MAR 24 to 30; VARIABLES REUSED 
  Sets 
          */
-        public static final int mtasets=0x7f0b0005;
+        public static final int mtasets=0x7f0b0008;
         /**  Sets 
          */
-        public static final int mtmsets=0x7f0b0007;
+        public static final int mtmsets=0x7f0b000a;
         /**  Sets 
          */
-        public static final int ntdsets=0x7f0b000d;
+        public static final int ntdsets=0x7f0b0010;
         /**  Sets 
          */
-        public static final int ntnsets=0x7f0b000e;
+        public static final int ntnsets=0x7f0b0011;
         /**  Sets 
          */
-        public static final int raceatasets=0x7f0b0003;
+        public static final int postalcansets=0x7f0b0002;
+        /**  Sets 
+         */
+        public static final int prealcansets=0x7f0b0003;
+        /**  Sets 
+         */
+        public static final int raceatasets=0x7f0b0006;
     }
     public static final class attr {
         /**  Custom divider drawable to use for elements in the action bar. 
@@ -1268,44 +1277,43 @@ containing a value of this type.
         public static final int btn_cab_done_pressed_one_west=0x7f02007b;
         public static final int cab_background_bottom_one_west=0x7f02007c;
         public static final int cab_background_top_one_west=0x7f02007d;
-        public static final int champs=0x7f02007e;
-        public static final int cora=0x7f02007f;
-        public static final int dumbbell=0x7f020080;
-        public static final int fist=0x7f020081;
+        public static final int cora=0x7f02007e;
+        public static final int dumbbell=0x7f02007f;
+        public static final int fist=0x7f020080;
+        public static final int gary=0x7f020081;
         public static final int ic_drawer=0x7f020082;
         public static final int ic_drawer_white=0x7f020083;
         public static final int ic_launcher=0x7f020084;
         public static final int indicator=0x7f020085;
         public static final int info=0x7f020086;
-        public static final int james=0x7f020087;
-        public static final int kings=0x7f020088;
-        public static final int ladder=0x7f020089;
-        public static final int list_focused_one_west=0x7f02008a;
-        public static final int longboat=0x7f02008b;
-        public static final int madness=0x7f02008c;
-        public static final int menu_dropdown_panel_one_west=0x7f02008d;
-        public static final int nationals=0x7f02008e;
-        public static final int new_indicator=0x7f02008f;
-        public static final int pressed_background_one_west=0x7f020090;
-        public static final int progress_bg_one_west=0x7f020091;
-        public static final int progress_horizontal_one_west=0x7f020092;
-        public static final int progress_primary_one_west=0x7f020093;
-        public static final int progress_secondary_one_west=0x7f020094;
-        public static final int selectable_background_one_west=0x7f020095;
-        public static final int shadow=0x7f020096;
-        public static final int spinner_ab_default_one_west=0x7f020097;
-        public static final int spinner_ab_disabled_one_west=0x7f020098;
-        public static final int spinner_ab_focused_one_west=0x7f020099;
-        public static final int spinner_ab_pressed_one_west=0x7f02009a;
-        public static final int spinner_background_ab_one_west=0x7f02009b;
-        public static final int tab1=0x7f02009c;
-        public static final int tab_indicator_ab_one_west=0x7f02009d;
-        public static final int tab_selected_focused_one_west=0x7f02009e;
-        public static final int tab_selected_one_west=0x7f02009f;
-        public static final int tab_selected_pressed_one_west=0x7f0200a0;
-        public static final int tab_unselected_focused_one_west=0x7f0200a1;
-        public static final int tab_unselected_one_west=0x7f0200a2;
-        public static final int tab_unselected_pressed_one_west=0x7f0200a3;
+        public static final int ladder=0x7f020087;
+        public static final int list_focused_one_west=0x7f020088;
+        public static final int longboat=0x7f020089;
+        public static final int madness=0x7f02008a;
+        public static final int menu_dropdown_panel_one_west=0x7f02008b;
+        public static final int new_indicator=0x7f02008c;
+        public static final int pressed_background_one_west=0x7f02008d;
+        public static final int progress_bg_one_west=0x7f02008e;
+        public static final int progress_horizontal_one_west=0x7f02008f;
+        public static final int progress_primary_one_west=0x7f020090;
+        public static final int progress_secondary_one_west=0x7f020091;
+        public static final int selectable_background_one_west=0x7f020092;
+        public static final int shadow=0x7f020093;
+        public static final int spinner_ab_default_one_west=0x7f020094;
+        public static final int spinner_ab_disabled_one_west=0x7f020095;
+        public static final int spinner_ab_focused_one_west=0x7f020096;
+        public static final int spinner_ab_pressed_one_west=0x7f020097;
+        public static final int spinner_background_ab_one_west=0x7f020098;
+        public static final int tab1=0x7f020099;
+        public static final int tab_indicator_ab_one_west=0x7f02009a;
+        public static final int tab_selected_focused_one_west=0x7f02009b;
+        public static final int tab_selected_one_west=0x7f02009c;
+        public static final int tab_selected_pressed_one_west=0x7f02009d;
+        public static final int tab_unselected_focused_one_west=0x7f02009e;
+        public static final int tab_unselected_one_west=0x7f02009f;
+        public static final int tab_unselected_pressed_one_west=0x7f0200a0;
+        public static final int victor=0x7f0200a1;
+        public static final int women=0x7f0200a2;
     }
     public static final class id {
         public static final int abs__action_bar=0x7f040026;
@@ -1477,45 +1485,45 @@ containing a value of this type.
     public static final class string {
         /**  Club Crews 
          */
-        public static final int CCWC1=0x7f0900a7;
-        public static final int CCWC2=0x7f0900a8;
-        public static final int CCWC3=0x7f0900a9;
+        public static final int CCWC1=0x7f0900c5;
+        public static final int CCWC2=0x7f0900c6;
+        public static final int CCWC3=0x7f0900c7;
         /**  Competition Phase 
          */
-        public static final int CP1=0x7f09009b;
-        public static final int CP2=0x7f09009c;
-        public static final int CP3=0x7f09009d;
-        public static final int CP4=0x7f09009e;
-        public static final int CP5=0x7f09009f;
-        public static final int CP6=0x7f0900a0;
-        public static final int CP7=0x7f0900a1;
-        public static final int CP8=0x7f0900a2;
-        public static final int CP9=0x7f0900a3;
+        public static final int CP1=0x7f0900b9;
+        public static final int CP2=0x7f0900ba;
+        public static final int CP3=0x7f0900bb;
+        public static final int CP4=0x7f0900bc;
+        public static final int CP5=0x7f0900bd;
+        public static final int CP6=0x7f0900be;
+        public static final int CP7=0x7f0900bf;
+        public static final int CP8=0x7f0900c0;
+        public static final int CP9=0x7f0900c1;
         /**  IMPORANT DATES 
  General Preparation Phase 
          */
-        public static final int GPP=0x7f09008f;
+        public static final int GPP=0x7f0900ad;
         /**  Pre Competition Phase 
          */
-        public static final int PCP1=0x7f090095;
-        public static final int PCP2=0x7f090096;
-        public static final int PCP3=0x7f090097;
-        public static final int PCP4=0x7f090098;
-        public static final int PCP5=0x7f090099;
-        public static final int PCP6=0x7f09009a;
+        public static final int PCP1=0x7f0900b3;
+        public static final int PCP2=0x7f0900b4;
+        public static final int PCP3=0x7f0900b5;
+        public static final int PCP4=0x7f0900b6;
+        public static final int PCP5=0x7f0900b7;
+        public static final int PCP6=0x7f0900b8;
         /**  Peak Taper Phase 
          */
-        public static final int PTP1=0x7f0900a4;
-        public static final int PTP2=0x7f0900a5;
-        public static final int PTP3=0x7f0900a6;
+        public static final int PTP1=0x7f0900c2;
+        public static final int PTP2=0x7f0900c3;
+        public static final int PTP3=0x7f0900c4;
         /**  Sport Specific Phase 
          */
-        public static final int SSP1=0x7f090090;
-        public static final int SSP2=0x7f090091;
-        public static final int SSP3=0x7f090092;
-        public static final int SSP4=0x7f090093;
-        public static final int SSP5=0x7f090094;
-        public static final int WeeksOf=0x7f09011b;
+        public static final int SSP1=0x7f0900ae;
+        public static final int SSP2=0x7f0900af;
+        public static final int SSP3=0x7f0900b0;
+        public static final int SSP4=0x7f0900b1;
+        public static final int SSP5=0x7f0900b2;
+        public static final int WeeksOf=0x7f090150;
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 
          */
         public static final int abs__action_bar_home_description=0x7f090000;
@@ -1555,351 +1563,426 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abs__shareactionprovider_share_with_application=0x7f090007;
-        public static final int action_settings=0x7f09011a;
-        public static final int app_name=0x7f090119;
+        public static final int action_settings=0x7f09014f;
+        public static final int app_name=0x7f09014e;
         /**  Apr 13 
          */
-        public static final int apr13coached=0x7f0900c6;
-        public static final int apr13db=0x7f0900c8;
-        public static final int apr13primary=0x7f0900c7;
+        public static final int apr13coached=0x7f0900fb;
+        public static final int apr13db=0x7f0900fd;
+        public static final int apr13primary=0x7f0900fc;
         /**  Apr 20 
          */
-        public static final int apr20coached=0x7f0900c3;
-        public static final int apr20db=0x7f0900c5;
-        public static final int apr20primary=0x7f0900c4;
+        public static final int apr20coached=0x7f0900f8;
+        public static final int apr20db=0x7f0900fa;
+        public static final int apr20primary=0x7f0900f9;
         /**  Apr 27 
          */
-        public static final int apr27coached=0x7f0900c0;
-        public static final int apr27db=0x7f0900c2;
-        public static final int apr27primary=0x7f0900c1;
+        public static final int apr27coached=0x7f0900f5;
+        public static final int apr27db=0x7f0900f7;
+        public static final int apr27primary=0x7f0900f6;
         /**  Apr 6 
          */
-        public static final int apr6coached=0x7f0900c9;
-        public static final int apr6db=0x7f0900cb;
-        public static final int apr6primary=0x7f0900ca;
+        public static final int apr6coached=0x7f0900fe;
+        public static final int apr6db=0x7f090100;
+        public static final int apr6primary=0x7f0900ff;
         /**  Apr 14 to May 11 
          */
-        public static final int ataday1=0x7f090025;
+        public static final int ataday1=0x7f090043;
         /**  Day 1 use emtmday1a 
          */
-        public static final int ataday1b=0x7f090026;
-        public static final int ataday1c=0x7f090027;
-        public static final int ataday2=0x7f090028;
-        public static final int ataday2a=0x7f090029;
-        public static final int ataday2b=0x7f09002a;
-        public static final int ataday2c=0x7f09002b;
-        public static final int dec15bonus=0x7f0900f8;
+        public static final int ataday1b=0x7f090044;
+        public static final int ataday1c=0x7f090045;
+        public static final int ataday2=0x7f090046;
+        public static final int ataday2a=0x7f090047;
+        public static final int ataday2b=0x7f090048;
+        public static final int ataday2c=0x7f090049;
+        public static final int aug10db=0x7f0900ca;
+        /**  OC WORKOUTS 
+ Aug 10 
+         */
+        public static final int aug10primary=0x7f0900c8;
+        public static final int aug10sec=0x7f0900c9;
+        public static final int aug3db=0x7f0900cd;
+        /**  Aug 3 
+         */
+        public static final int aug3primary=0x7f0900cb;
+        public static final int aug3sec=0x7f0900cc;
+        public static final int dec15bonus=0x7f09012d;
         /**  Dec 15 
          */
-        public static final int dec15coached=0x7f0900f5;
-        public static final int dec15primary=0x7f0900f6;
-        public static final int dec15sec=0x7f0900f7;
-        public static final int dec1bonus=0x7f090100;
+        public static final int dec15coached=0x7f09012a;
+        public static final int dec15primary=0x7f09012b;
+        public static final int dec15sec=0x7f09012c;
+        public static final int dec1bonus=0x7f090135;
         /**  Dec 1 
          */
-        public static final int dec1coached=0x7f0900fd;
-        public static final int dec1primary=0x7f0900fe;
-        public static final int dec1sec=0x7f0900ff;
+        public static final int dec1coached=0x7f090132;
+        public static final int dec1primary=0x7f090133;
+        public static final int dec1sec=0x7f090134;
         /**  Dec 22 
          */
-        public static final int dec22=0x7f0900f4;
+        public static final int dec22=0x7f090129;
         /**  Dec 29 
          */
-        public static final int dec29coached=0x7f0900f1;
-        public static final int dec29primary=0x7f0900f2;
-        public static final int dec29sec=0x7f0900f3;
-        public static final int dec8bonus=0x7f0900fc;
+        public static final int dec29coached=0x7f090126;
+        public static final int dec29primary=0x7f090127;
+        public static final int dec29sec=0x7f090128;
+        public static final int dec8bonus=0x7f090131;
         /**  Dec 8 
          */
-        public static final int dec8coached=0x7f0900f9;
-        public static final int dec8primary=0x7f0900fa;
-        public static final int dec8sec=0x7f0900fb;
+        public static final int dec8coached=0x7f09012e;
+        public static final int dec8primary=0x7f09012f;
+        public static final int dec8sec=0x7f090130;
         /**  Dec 16 to Jan 6 
          */
-        public static final int dtjday1=0x7f090068;
-        public static final int dtjday1a=0x7f090069;
-        public static final int dtjday1b=0x7f09006a;
-        public static final int dtjday1c=0x7f09006b;
-        public static final int dtjday2=0x7f09006c;
-        public static final int dtjday2a=0x7f09006d;
-        public static final int dtjday2b=0x7f09006e;
-        public static final int dtjday2c=0x7f09006f;
-        public static final int dtjday3=0x7f090070;
-        public static final int dtjday3a=0x7f090071;
-        public static final int dtjday3b=0x7f090072;
-        public static final int dtjday3c=0x7f090073;
-        public static final int emtmcirc1=0x7f090034;
-        public static final int emtmcirc2=0x7f090035;
-        public static final int emtmcirc3=0x7f090036;
+        public static final int dtjday1=0x7f090086;
+        public static final int dtjday1a=0x7f090087;
+        public static final int dtjday1b=0x7f090088;
+        public static final int dtjday1c=0x7f090089;
+        public static final int dtjday2=0x7f09008a;
+        public static final int dtjday2a=0x7f09008b;
+        public static final int dtjday2b=0x7f09008c;
+        public static final int dtjday2c=0x7f09008d;
+        public static final int dtjday3=0x7f09008e;
+        public static final int dtjday3a=0x7f09008f;
+        public static final int dtjday3b=0x7f090090;
+        public static final int dtjday3c=0x7f090091;
+        public static final int emtmcirc1=0x7f090052;
+        public static final int emtmcirc2=0x7f090053;
+        public static final int emtmcirc3=0x7f090054;
         /**  Mar 24 to 30 
          */
-        public static final int emtmday1=0x7f09002c;
-        public static final int emtmday1a=0x7f09002d;
-        public static final int emtmday1b=0x7f09002e;
-        public static final int emtmday1c=0x7f09002f;
-        public static final int emtmday2=0x7f090030;
-        public static final int emtmday2a=0x7f090031;
-        public static final int emtmday2b=0x7f090032;
-        public static final int emtmday2c=0x7f090033;
+        public static final int emtmday1=0x7f09004a;
+        public static final int emtmday1a=0x7f09004b;
+        public static final int emtmday1b=0x7f09004c;
+        public static final int emtmday1c=0x7f09004d;
+        public static final int emtmday2=0x7f09004e;
+        public static final int emtmday2a=0x7f09004f;
+        public static final int emtmday2b=0x7f090050;
+        public static final int emtmday2c=0x7f090051;
         /**  Feb 16 
          */
-        public static final int feb16coached=0x7f0900dc;
-        public static final int feb16primary=0x7f0900dd;
-        public static final int feb16sec=0x7f0900de;
+        public static final int feb16coached=0x7f090111;
+        public static final int feb16primary=0x7f090112;
+        public static final int feb16sec=0x7f090113;
         /**  Feb 23 
          */
-        public static final int feb23coached=0x7f0900d9;
-        public static final int feb23primary=0x7f0900da;
-        public static final int feb23sec=0x7f0900db;
+        public static final int feb23coached=0x7f09010e;
+        public static final int feb23primary=0x7f09010f;
+        public static final int feb23sec=0x7f090110;
         /**  Feb 2 
          */
-        public static final int feb2coached=0x7f0900e2;
-        public static final int feb2primary=0x7f0900e3;
-        public static final int feb2sec=0x7f0900e4;
+        public static final int feb2coached=0x7f090117;
+        public static final int feb2primary=0x7f090118;
+        public static final int feb2sec=0x7f090119;
         /**  Feb 9 
          */
-        public static final int feb9coached=0x7f0900df;
-        public static final int feb9primary=0x7f0900e0;
-        public static final int feb9sec=0x7f0900e1;
+        public static final int feb9coached=0x7f090114;
+        public static final int feb9primary=0x7f090115;
+        public static final int feb9sec=0x7f090116;
         /**  Feb 10 to Feb 22 
          */
-        public static final int ftfday1=0x7f090049;
-        public static final int ftfday1a=0x7f09004a;
-        public static final int ftfday1b=0x7f09004b;
-        public static final int ftfday1c=0x7f09004c;
-        public static final int ftfday2=0x7f09004d;
-        public static final int ftfday2a=0x7f09004e;
-        public static final int ftfday2b=0x7f09004f;
-        public static final int ftfday2c=0x7f090050;
+        public static final int ftfday1=0x7f090067;
+        public static final int ftfday1a=0x7f090068;
+        public static final int ftfday1b=0x7f090069;
+        public static final int ftfday1c=0x7f09006a;
+        public static final int ftfday2=0x7f09006b;
+        public static final int ftfday2a=0x7f09006c;
+        public static final int ftfday2b=0x7f09006d;
+        public static final int ftfday2c=0x7f09006e;
         /**  Feb 23 to Mar 17 
          */
-        public static final int ftmday1=0x7f09003d;
-        public static final int ftmday1a=0x7f09003e;
-        public static final int ftmday1b=0x7f09003f;
-        public static final int ftmday1c=0x7f090040;
-        public static final int ftmday2=0x7f090041;
-        public static final int ftmday2a=0x7f090042;
-        public static final int ftmday2b=0x7f090043;
-        public static final int ftmday2c=0x7f090044;
-        public static final int ftmday3=0x7f090045;
-        public static final int ftmday3a=0x7f090046;
-        public static final int ftmday3b=0x7f090047;
-        public static final int ftmday3c=0x7f090048;
+        public static final int ftmday1=0x7f09005b;
+        public static final int ftmday1a=0x7f09005c;
+        public static final int ftmday1b=0x7f09005d;
+        public static final int ftmday1c=0x7f09005e;
+        public static final int ftmday2=0x7f09005f;
+        public static final int ftmday2a=0x7f090060;
+        public static final int ftmday2b=0x7f090061;
+        public static final int ftmday2c=0x7f090062;
+        public static final int ftmday3=0x7f090063;
+        public static final int ftmday3a=0x7f090064;
+        public static final int ftmday3b=0x7f090065;
+        public static final int ftmday3c=0x7f090066;
         /**  Jan 12 
          */
-        public static final int jan12coached=0x7f0900eb;
-        public static final int jan12primary=0x7f0900ec;
-        public static final int jan12sec=0x7f0900ed;
+        public static final int jan12coached=0x7f090120;
+        public static final int jan12primary=0x7f090121;
+        public static final int jan12sec=0x7f090122;
         /**  Jan 19 
          */
-        public static final int jan19coached=0x7f0900e8;
-        public static final int jan19primary=0x7f0900e9;
-        public static final int jan19sec=0x7f0900ea;
+        public static final int jan19coached=0x7f09011d;
+        public static final int jan19primary=0x7f09011e;
+        public static final int jan19sec=0x7f09011f;
         /**  Jan 26 
          */
-        public static final int jan26coached=0x7f0900e5;
-        public static final int jan26primary=0x7f0900e6;
-        public static final int jan26sec=0x7f0900e7;
+        public static final int jan26coached=0x7f09011a;
+        public static final int jan26primary=0x7f09011b;
+        public static final int jan26sec=0x7f09011c;
         /**  Jan 5 
          */
-        public static final int jan5coached=0x7f0900ee;
-        public static final int jan5primary=0x7f0900ef;
-        public static final int jan5sec=0x7f0900f0;
+        public static final int jan5coached=0x7f090123;
+        public static final int jan5primary=0x7f090124;
+        public static final int jan5sec=0x7f090125;
         /**  Jan 20 to Feb 9 Workouts 
          */
-        public static final int jtfday1=0x7f090051;
-        public static final int jtfday1a=0x7f090052;
-        public static final int jtfday1b=0x7f090053;
-        public static final int jtfday1c=0x7f090054;
-        public static final int jtfday1d=0x7f090055;
-        public static final int jtfday2=0x7f090056;
-        public static final int jtfday2a=0x7f090057;
-        public static final int jtfday2b=0x7f090058;
-        public static final int jtfday2c=0x7f090059;
-        public static final int jtfday2d=0x7f09005a;
-        public static final int jtfday3=0x7f09005b;
-        public static final int jtfday3a=0x7f09005c;
-        public static final int jtfday3b=0x7f09005d;
-        public static final int jtfday3c=0x7f09005e;
+        public static final int jtfday1=0x7f09006f;
+        public static final int jtfday1a=0x7f090070;
+        public static final int jtfday1b=0x7f090071;
+        public static final int jtfday1c=0x7f090072;
+        public static final int jtfday1d=0x7f090073;
+        public static final int jtfday2=0x7f090074;
+        public static final int jtfday2a=0x7f090075;
+        public static final int jtfday2b=0x7f090076;
+        public static final int jtfday2c=0x7f090077;
+        public static final int jtfday2d=0x7f090078;
+        public static final int jtfday3=0x7f090079;
+        public static final int jtfday3a=0x7f09007a;
+        public static final int jtfday3b=0x7f09007b;
+        public static final int jtfday3c=0x7f09007c;
         /**  Jan 12 to Jan 19 
          */
-        public static final int jtjday1=0x7f09005f;
-        public static final int jtjday1a=0x7f090060;
-        public static final int jtjday1b=0x7f090061;
-        public static final int jtjday1c=0x7f090062;
-        public static final int jtjday1d=0x7f090063;
-        public static final int jtjday2=0x7f090064;
-        public static final int jtjday2a=0x7f090065;
-        public static final int jtjday2b=0x7f090066;
-        public static final int jtjday2c=0x7f090067;
-        public static final int jun15db=0x7f0900ab;
-        /**  OC WORKOUTS 
- Jun 15 
+        public static final int jtjday1=0x7f09007d;
+        public static final int jtjday1a=0x7f09007e;
+        public static final int jtjday1b=0x7f09007f;
+        public static final int jtjday1c=0x7f090080;
+        public static final int jtjday1d=0x7f090081;
+        public static final int jtjday2=0x7f090082;
+        public static final int jtjday2a=0x7f090083;
+        public static final int jtjday2b=0x7f090084;
+        public static final int jtjday2c=0x7f090085;
+        public static final int jul13db=0x7f0900d6;
+        /**  Jul 13 
          */
-        public static final int jun15primary=0x7f0900aa;
-        public static final int jun1db=0x7f0900b2;
-        public static final int jun1db2=0x7f0900b3;
+        public static final int jul13primary=0x7f0900d4;
+        public static final int jul13sec=0x7f0900d5;
+        public static final int jul20db=0x7f0900d3;
+        /**  Jul 20 
+         */
+        public static final int jul20primary=0x7f0900d1;
+        public static final int jul20sec=0x7f0900d2;
+        public static final int jul27db=0x7f0900d0;
+        /**  Jul 27 
+         */
+        public static final int jul27primary=0x7f0900ce;
+        public static final int jul27sec=0x7f0900cf;
+        public static final int jul6db=0x7f0900d9;
+        /**  Jul 6 
+         */
+        public static final int jul6primary=0x7f0900d7;
+        public static final int jul6sec=0x7f0900d8;
+        public static final int jultoaugcore=0x7f090014;
+        /**  GYM WORKOUTS 
+ Jul 14 to Aug 4 
+         */
+        public static final int jultoaugday1=0x7f09000d;
+        public static final int jultoaugday1a=0x7f09000e;
+        public static final int jultoaugday1b=0x7f09000f;
+        public static final int jultoaugday2=0x7f090010;
+        public static final int jultoaugday2a=0x7f090011;
+        public static final int jultoaugday2b=0x7f090012;
+        public static final int jultoaugday2c=0x7f090013;
+        public static final int jun15db=0x7f0900e0;
+        /**  Jun 15 
+         */
+        public static final int jun15primary=0x7f0900df;
+        public static final int jun1db=0x7f0900e7;
+        public static final int jun1db2=0x7f0900e8;
         /**  Jun 1 
          */
-        public static final int jun1primary=0x7f0900b0;
-        public static final int jun1sec=0x7f0900b1;
-        public static final int jun8db=0x7f0900ae;
-        public static final int jun8db2=0x7f0900af;
+        public static final int jun1primary=0x7f0900e5;
+        public static final int jun1sec=0x7f0900e6;
+        public static final int jun22db=0x7f0900de;
+        /**  Jun 22 
+         */
+        public static final int jun22primary=0x7f0900dd;
+        public static final int jun29db=0x7f0900dc;
+        /**  Jun 29 
+         */
+        public static final int jun29primary=0x7f0900da;
+        public static final int jun29sec=0x7f0900db;
+        public static final int jun8db=0x7f0900e3;
+        public static final int jun8db2=0x7f0900e4;
         /**  Jun 8 
          */
-        public static final int jun8primary=0x7f0900ac;
-        public static final int jun8sec=0x7f0900ad;
-        public static final int juntojuncore=0x7f090015;
-        /**  GYM WORKOUTS 
- Jun 2 to 15 
+        public static final int jun8primary=0x7f0900e1;
+        public static final int jun8sec=0x7f0900e2;
+        public static final int juntojuncore=0x7f090033;
+        /**  Jun 2 to 15 
          */
-        public static final int juntojunday1=0x7f09000d;
-        public static final int juntojunday1a=0x7f09000e;
-        public static final int juntojunday1b=0x7f09000f;
-        public static final int juntojunday1c=0x7f090010;
-        public static final int juntojunday2=0x7f090011;
-        public static final int juntojunday2a=0x7f090012;
-        public static final int juntojunday2b=0x7f090013;
-        public static final int juntojunday2c=0x7f090014;
+        public static final int juntojunday1=0x7f09002b;
+        public static final int juntojunday1a=0x7f09002c;
+        public static final int juntojunday1b=0x7f09002d;
+        public static final int juntojunday1c=0x7f09002e;
+        public static final int juntojunday2=0x7f09002f;
+        public static final int juntojunday2a=0x7f090030;
+        public static final int juntojunday2b=0x7f090031;
+        public static final int juntojunday2c=0x7f090032;
         /**  Mar 16 
          */
-        public static final int mar16coached=0x7f0900d0;
-        public static final int mar16primary=0x7f0900d1;
-        public static final int mar16sec=0x7f0900d2;
+        public static final int mar16coached=0x7f090105;
+        public static final int mar16primary=0x7f090106;
+        public static final int mar16sec=0x7f090107;
         /**  Mar 23 
          */
-        public static final int mar23primary=0x7f0900cf;
+        public static final int mar23primary=0x7f090104;
         /**  Mar 2 
          */
-        public static final int mar2coached=0x7f0900d6;
-        public static final int mar2primary=0x7f0900d7;
-        public static final int mar2sec=0x7f0900d8;
+        public static final int mar2coached=0x7f09010b;
+        public static final int mar2primary=0x7f09010c;
+        public static final int mar2sec=0x7f09010d;
         /**  Mar 30 
          */
-        public static final int mar30coached=0x7f0900cc;
-        public static final int mar30db=0x7f0900ce;
-        public static final int mar30primary=0x7f0900cd;
+        public static final int mar30coached=0x7f090101;
+        public static final int mar30db=0x7f090103;
+        public static final int mar30primary=0x7f090102;
         /**  Mar 9 
          */
-        public static final int mar9coached=0x7f0900d3;
-        public static final int mar9primary=0x7f0900d4;
-        public static final int mar9sec=0x7f0900d5;
+        public static final int mar9coached=0x7f090108;
+        public static final int mar9primary=0x7f090109;
+        public static final int mar9sec=0x7f09010a;
         /**  May 11 
          */
-        public static final int may11coached=0x7f0900ba;
-        public static final int may11db=0x7f0900bc;
-        public static final int may11primary=0x7f0900bb;
+        public static final int may11coached=0x7f0900ef;
+        public static final int may11db=0x7f0900f1;
+        public static final int may11primary=0x7f0900f0;
         /**  May 18 
          */
-        public static final int may18coached=0x7f0900b7;
-        public static final int may18db=0x7f0900b9;
-        public static final int may18primary=0x7f0900b8;
+        public static final int may18coached=0x7f0900ec;
+        public static final int may18db=0x7f0900ee;
+        public static final int may18primary=0x7f0900ed;
         /**  May 25 
          */
-        public static final int may25coached=0x7f0900b4;
-        public static final int may25db=0x7f0900b6;
-        public static final int may25primary=0x7f0900b5;
+        public static final int may25coached=0x7f0900e9;
+        public static final int may25db=0x7f0900eb;
+        public static final int may25primary=0x7f0900ea;
         /**  May 4 
          */
-        public static final int may4coached=0x7f0900bd;
-        public static final int may4db=0x7f0900bf;
-        public static final int may4primary=0x7f0900be;
+        public static final int may4coached=0x7f0900f2;
+        public static final int may4db=0x7f0900f4;
+        public static final int may4primary=0x7f0900f3;
         /**  May 12 to 18 
          */
-        public static final int maytomayday1=0x7f090016;
-        public static final int maytomayday1a=0x7f090017;
-        public static final int maytomayday1b=0x7f090018;
-        public static final int maytomayday1c=0x7f090019;
-        public static final int maytomayday2=0x7f09001a;
-        public static final int maytomayday2a=0x7f09001b;
-        public static final int maytomayday2b=0x7f09001c;
-        public static final int maytomayday2c=0x7f09001d;
+        public static final int maytomayday1=0x7f090034;
+        public static final int maytomayday1a=0x7f090035;
+        public static final int maytomayday1b=0x7f090036;
+        public static final int maytomayday1c=0x7f090037;
+        public static final int maytomayday2=0x7f090038;
+        public static final int maytomayday2a=0x7f090039;
+        public static final int maytomayday2b=0x7f09003a;
+        public static final int maytomayday2c=0x7f09003b;
         /**  Mar 18 to 23 
          */
-        public static final int mtmday1=0x7f090037;
-        public static final int mtmday1a=0x7f090038;
-        public static final int mtmday1b=0x7f090039;
-        public static final int mtmday2=0x7f09003a;
-        public static final int mtmday2a=0x7f09003b;
-        public static final int mtmday2b=0x7f09003c;
-        public static final int nov10bonus=0x7f09010c;
+        public static final int mtmday1=0x7f090055;
+        public static final int mtmday1a=0x7f090056;
+        public static final int mtmday1b=0x7f090057;
+        public static final int mtmday2=0x7f090058;
+        public static final int mtmday2a=0x7f090059;
+        public static final int mtmday2b=0x7f09005a;
+        public static final int nov10bonus=0x7f090141;
         /**  Nov 10 
          */
-        public static final int nov10coached=0x7f090109;
-        public static final int nov10primary=0x7f09010a;
-        public static final int nov10sec=0x7f09010b;
-        public static final int nov17bonus=0x7f090108;
+        public static final int nov10coached=0x7f09013e;
+        public static final int nov10primary=0x7f09013f;
+        public static final int nov10sec=0x7f090140;
+        public static final int nov17bonus=0x7f09013d;
         /**  Nov 17 
          */
-        public static final int nov17coached=0x7f090105;
-        public static final int nov17primary=0x7f090106;
-        public static final int nov17sec=0x7f090107;
-        public static final int nov24bonus=0x7f090104;
+        public static final int nov17coached=0x7f09013a;
+        public static final int nov17primary=0x7f09013b;
+        public static final int nov17sec=0x7f09013c;
+        public static final int nov24bonus=0x7f090139;
         /**  Nov 24 
          */
-        public static final int nov24coached=0x7f090101;
-        public static final int nov24primary=0x7f090102;
-        public static final int nov24sec=0x7f090103;
-        public static final int nov3bonus=0x7f090110;
+        public static final int nov24coached=0x7f090136;
+        public static final int nov24primary=0x7f090137;
+        public static final int nov24sec=0x7f090138;
+        public static final int nov3bonus=0x7f090145;
         /**  Nov 3 
          */
-        public static final int nov3coached=0x7f09010d;
-        public static final int nov3primary=0x7f09010e;
-        public static final int nov3sec=0x7f09010f;
+        public static final int nov3coached=0x7f090142;
+        public static final int nov3primary=0x7f090143;
+        public static final int nov3sec=0x7f090144;
         /**  Nov 26 to Dec 9 
          */
-        public static final int ntdday1=0x7f090074;
-        public static final int ntdday1a=0x7f090075;
-        public static final int ntdday1b=0x7f090076;
-        public static final int ntdday1c=0x7f090077;
-        public static final int ntdday2=0x7f090078;
-        public static final int ntdday2a=0x7f090079;
-        public static final int ntdday2b=0x7f09007a;
-        public static final int ntdday2c=0x7f09007b;
-        public static final int ntdday3=0x7f09007c;
-        public static final int ntdday3a=0x7f09007d;
-        public static final int ntdday3b=0x7f09007e;
-        public static final int ntdday3c=0x7f09007f;
-        public static final int ntdday3d=0x7f090080;
-        public static final int ntdday3e=0x7f090081;
+        public static final int ntdday1=0x7f090092;
+        public static final int ntdday1a=0x7f090093;
+        public static final int ntdday1b=0x7f090094;
+        public static final int ntdday1c=0x7f090095;
+        public static final int ntdday2=0x7f090096;
+        public static final int ntdday2a=0x7f090097;
+        public static final int ntdday2b=0x7f090098;
+        public static final int ntdday2c=0x7f090099;
+        public static final int ntdday3=0x7f09009a;
+        public static final int ntdday3a=0x7f09009b;
+        public static final int ntdday3b=0x7f09009c;
+        public static final int ntdday3c=0x7f09009d;
+        public static final int ntdday3d=0x7f09009e;
+        public static final int ntdday3e=0x7f09009f;
         /**  Nov 4 to 25 
          */
-        public static final int ntnday1=0x7f090082;
-        public static final int ntnday1a=0x7f090083;
-        public static final int ntnday1b=0x7f090084;
-        public static final int ntnday2=0x7f090085;
-        public static final int ntnday2a=0x7f090086;
-        public static final int ntnday2b=0x7f090087;
-        public static final int ntnday3=0x7f090088;
-        public static final int ntnday3a=0x7f090089;
-        public static final int ntnday3b=0x7f09008a;
-        public static final int ntnday3c=0x7f09008b;
-        public static final int ntnday3d=0x7f09008c;
-        public static final int ntnday3e=0x7f09008d;
-        public static final int ntnday3f=0x7f09008e;
-        public static final int oct20bonus=0x7f090118;
+        public static final int ntnday1=0x7f0900a0;
+        public static final int ntnday1a=0x7f0900a1;
+        public static final int ntnday1b=0x7f0900a2;
+        public static final int ntnday2=0x7f0900a3;
+        public static final int ntnday2a=0x7f0900a4;
+        public static final int ntnday2b=0x7f0900a5;
+        public static final int ntnday3=0x7f0900a6;
+        public static final int ntnday3a=0x7f0900a7;
+        public static final int ntnday3b=0x7f0900a8;
+        public static final int ntnday3c=0x7f0900a9;
+        public static final int ntnday3d=0x7f0900aa;
+        public static final int ntnday3e=0x7f0900ab;
+        public static final int ntnday3f=0x7f0900ac;
+        public static final int oct20bonus=0x7f09014d;
         /**  Oct 20 
          */
-        public static final int oct20coached=0x7f090115;
-        public static final int oct20primary=0x7f090116;
-        public static final int oct20sec=0x7f090117;
-        public static final int oct27bonus=0x7f090114;
+        public static final int oct20coached=0x7f09014a;
+        public static final int oct20primary=0x7f09014b;
+        public static final int oct20sec=0x7f09014c;
+        public static final int oct27bonus=0x7f090149;
         /**  Oct 27 
          */
-        public static final int oct27coached=0x7f090111;
-        public static final int oct27primary=0x7f090112;
-        public static final int oct27sec=0x7f090113;
-        public static final int owdb=0x7f09011d;
+        public static final int oct27coached=0x7f090146;
+        public static final int oct27primary=0x7f090147;
+        public static final int oct27sec=0x7f090148;
+        public static final int owdb=0x7f090152;
+        public static final int postalcancore=0x7f09001d;
+        /**  Jun 23 to Jul 13 
+         */
+        public static final int postalcanday1=0x7f090015;
+        public static final int postalcanday1a=0x7f090016;
+        public static final int postalcanday1b=0x7f090017;
+        public static final int postalcanday1c=0x7f090018;
+        public static final int postalcanday2=0x7f090019;
+        public static final int postalcanday2a=0x7f09001a;
+        public static final int postalcanday2b=0x7f09001b;
+        public static final int postalcanday2c=0x7f09001c;
+        public static final int prealcanchinaday1=0x7f090025;
+        public static final int prealcanchinaday1a=0x7f090026;
+        public static final int prealcanchinaday1b=0x7f090027;
+        public static final int prealcanchinaday2=0x7f090028;
+        public static final int prealcanchinaday2a=0x7f090029;
+        public static final int prealcanchinaday2b=0x7f09002a;
+        public static final int prealcanchinatitle=0x7f090024;
+        /**  Jun 16 to 22 
+         */
+        public static final int prealcanday1=0x7f09001e;
+        public static final int prealcanday1a=0x7f09001f;
+        public static final int prealcanday1b=0x7f090020;
+        public static final int prealcanday2=0x7f090021;
+        public static final int prealcanday2a=0x7f090022;
+        public static final int prealcanday2b=0x7f090023;
         /**  Apr 21 to 27 
          */
-        public static final int raceataday1=0x7f09001e;
-        public static final int raceataday1a=0x7f09001f;
-        public static final int raceataday1b=0x7f090020;
-        public static final int raceataday1c=0x7f090021;
-        public static final int raceataday2=0x7f090022;
-        public static final int raceataday2a=0x7f090023;
-        public static final int raceataday2b=0x7f090024;
-        public static final int road=0x7f09011c;
+        public static final int raceataday1=0x7f09003c;
+        public static final int raceataday1a=0x7f09003d;
+        public static final int raceataday1b=0x7f09003e;
+        public static final int raceataday1c=0x7f09003f;
+        public static final int raceataday2=0x7f090040;
+        public static final int raceataday2a=0x7f090041;
+        public static final int raceataday2b=0x7f090042;
+        public static final int road=0x7f090151;
     }
     public static final class style {
         public static final int ActionBar_Solid_One_west=0x7f0a005a;

@@ -107,8 +107,8 @@ public class MainActivity extends SlidingFragmentActivity {
 	    
 	    // Random Image Setter
 	    private void randomphoto() {
-	    	int [] photos = { R.drawable.james, R.drawable.kings, R.drawable.champs, R.drawable.nationals, R.drawable.cora,
-	    			R.drawable.alcan, R.drawable.madness, R.drawable.longboat
+	    	int [] photos = { R.drawable.alcan, R.drawable.gary, R.drawable.women, R.drawable.cora,
+	    			 R.drawable.madness, R.drawable.longboat, R.drawable.victor,
 	    };
 
 	    	ImageView image = (ImageView)findViewById(R.id.menupic);

@@ -2,6 +2,9 @@
 <resources>
     <!-- Group Titles for GymWorkoutsFragment -->
 	<string-array name="GymDates">
+	 	<item>Jul 14 to Aug 4</item> 
+	    <item>Jun 23 to Jul 13</item>
+	    <item>Jun 16 to Jun 22</item>
 	    <item>Jun 2 to Jun 15</item>
 	    <item>May 12 to May 31</item>
 	    <item>Apr 14 to May 11</item>
@@ -19,6 +22,85 @@
 	</string-array>
 	
 	<!-- GYM WORKOUTS -->
+	<!-- Jul 14 to Aug 4 -->
+		<string name="jultoaugday1"><![CDATA[<b>Day 1:</b><br />• Weighted Parallel Grip Chinup<br />• Bench Press<br /><i><small>(Pause for an instant four times during each lowering portion of the movement)</i></small>]]></string>
+		<string name="jultoaugday1a"><![CDATA[• Back Squat<br />• Machine Rows<br /><i><small>(Pause for an instant four times during each lowering portion of the movement)</i></small>]]></string>
+		<string name="jultoaugday1b"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown<br />• One Arm Standing Dumbell Hammer Curl into Shoulder Press<br />• One Arm Standing Cable Row<br />• One Arm Dumbell Power Snatch<br /><i><small>[Circuit Style]</small</i>]]></string>
+		<string name="jultoaugday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullup<br />(Or Wide Grip Pulldown)<br /><i><small>(15 seconds between rep groups)</i></small>]]></string>
+		<string name="jultoaugday2a"><![CDATA[• Grappler Press<br />• One Arm Dumbell Row]]></string>
+		<string name="jultoaugday2b"><![CDATA[• Hexbar Deadlift<br /><i><small>(15 seconds between rep groups)</i></small>]]></string>
+		<string name="jultoaugday2c"><![CDATA[• Incline Dumbell Press<br />• High Incline Prone Bench Dumbell Row<br />• Barbell Upright Row<br />• Straight Arm Pulldown<br />• Weighted Dips<br />• Dumbell Shrugs<br />• One Arm Dumbell Power Snatch<br /><i><small>]]></string>
+		<string name="jultoaugcore"><![CDATA[<b>Core Work:</b><br />• Hanging Twists<br />• Roman Chair Medball Pass Situps]]></string>
+		
+		<!-- Sets -->
+		<string-array name="jultoaugsets">
+		    <item>\n(4 x 10)</item>
+		    <item>(4 x 10)</item>
+		    <item>(4 x 8)</item>
+		    <item>\n(4 x 5-4-3-2-1)</item>
+		    <item>(4 x 15)</item>
+		    <item>(4 x 5-4-3-2-1)</item>
+		    <item>(4 x 6)</item>
+		    <item>\n(3 x Max in 30 secs)\n(4 x 10)</item>
+		</string-array>
+	
+	<!-- Jun 23 to Jul 13 -->
+		<string name="postalcanday1"><![CDATA[<b>Day 1:</b><br />• Weighted Parallel Grip Chinup<br />(Or Close Grip Pulldown)]]></string>
+		<string name="postalcanday1a"><![CDATA[• Back Squat]]></string>
+		<string name="postalcanday1b"><![CDATA[• Bench Press<br />• Inverted Rows]]></string>
+		<string name="postalcanday1c"><![CDATA[• Incline Dumbell Press<br />• High Incline Prone Bench Dumbell Row<br />• Barbell Upright Row<br />• Straight Arm Pulldown<br />• Weighted Dips<br />• Dumbell Shrugs]]></string>
+		<string name="postalcanday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullup<br />(Or Wide Grip Pulldown)]]></string>
+		<string name="postalcanday2a"><![CDATA[• Grappler Press]]></string>
+		<string name="postalcanday2b"><![CDATA[• Hexbar Deadlift]]></string>
+		<string name="postalcanday2c"><![CDATA[• One Arm Dumbell Row<br />• One Arm Dumbell Push Press<br />• One Arm Straight Arm Pulldown<br />• One Arm Standing Dumbell Hammer Curl into Shoulder Press<br />• One Arm Standing Cable Row<br />• One Arm Dumbell Power Snatch]]></string>
+		<string name="postalcancore"><![CDATA[<b>Core Work:</b><br />• Hanging Twists]]></string>
+		
+	<!-- Sets -->
+		<string-array name="postalcansets">
+		    <item>\n(4 x 15)</item>
+		    <item>(4 x 15)</item>
+		    <item>(4 x 15)</item>
+		    <item>(4 x 8)</item>
+		    <item>\n(4 x 15)</item>
+		    <item>(4 x 15)</item>
+		    <item>(4 x 15)</item>
+		    <item>(4 x 10)</item>
+		    <item>\n(3 x Failure)</item>
+		</string-array>
+		
+		
+	<!-- Jun 16 to 22 -->
+		<string name="prealcanday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinup<br /><i><small>(45 secs rest)</i></small>]]></string>
+		<string name="prealcanday1a"><![CDATA[• Push Press<br />• Medball Floor Slams<br /><i><small>[Superset]</i></small>]]></string>
+		<string name="prealcanday1b"><![CDATA[• Back Squat<br />• Overhead Forward Medball Throw<br /><i><small>[Circuit Style]</i></small>]]></string>
+		<string name="prealcanday2"><![CDATA[<b>Day 2:</b><br />• Weighted Pullup<br /><i><small>(45 secs rest)</i></small><br /><i><small>(85% max)</i></small>]]></string>
+		<string name="prealcanday2a"><![CDATA[• Bench Press<br />• Medball Plyo Pushup]]></string>
+		<string name="prealcanday2b"><![CDATA[• Power Clean<br />• Overhead Forward Medball Throw<br /><i><small>[Circuit Style]</i></small>]]></string>
+		<string name="prealcanchinatitle"><![CDATA[<b>For those returning from China</b>]]></string>
+		<string name="prealcanchinaday1"><![CDATA[<b>Day 1:</b><br />• Power Cleans]]></string>
+		<string name="prealcanchinaday1a"><![CDATA[• Bench Press<br />• Pullups]]></string>
+		<string name="prealcanchinaday1b"><![CDATA[• Dumbbell Rows]]></string>
+		<string name="prealcanchinaday2"><![CDATA[<b>Day 2:</b><br />• Push Press<br />• Chinup]]></string>
+		<string name="prealcanchinaday2a"><![CDATA[• Back Squat]]></string>
+		<string name="prealcanchinaday2b"><![CDATA[• Dumbbell Rows]]></string>
+		
+	<!-- Sets -->
+		<string-array name="prealcansets">
+		 	<item>\n(10 x 1)</item>
+		    <item>(7 x 2)\n(7 x 8)</item>
+		    <item>(4 x 2)\n(4 x 6)</item>
+		    <item>\n(5 x 1)</item>
+		    <item>(3 x 2)\n(3 x 8)</item>
+		    <item>(2 x 2)\n(2 x 6)</item>
+		    <item>""</item>
+		    <item>\n(5 x 3)</item>
+		    <item>(5 x 3)</item>
+		    <item>(5 x 5)</item>
+		    <item>\n(5 x 3)</item>
+		    <item>(5 x 3)</item>
+		    <item>(5 x 5)</item>
+		</string-array>
+		
 	<!-- Jun 2 to 15 -->
 		<string name="juntojunday1"><![CDATA[<b>Day 1:</b><br />• Weighted Chinup<br /><i><small>(45 secs rest)</i></small>]]></string>
 		<string name="juntojunday1a"><![CDATA[• Push Press<br />• Medball Floor Slams]]></string>

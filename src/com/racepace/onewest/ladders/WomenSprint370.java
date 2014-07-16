@@ -15,18 +15,16 @@ import android.widget.GridView;
 public class WomenSprint370 extends Fragment {
 	
 	private static final String[] paddlers = {
-		"Collyn Chan", "","Carolyn Tse",
-		"Jen Chan", "","Paige M.",
-		"Jessica Tan","","Cherry Chen",
-		"Amanda Chan","","Carmen Tam",
-		"Sophia Chan", "","Sophia Chan",
-		"Carol Leung", "","Carol Leung",
-		"Esther Amanda", "","Laurel Rogers",
-		"Kathleen A", "","Kathleen A",
-		"Cherry Chen","","",
-		"Vanessa Chow","","",
+		"Jessica Tan", "","Carolyn Tse",
+		"Collyn Chan", "","Paige M.",
+		"Jen Chan","","Cherry Chen",
+		"Sophia Chan","","Carmen Tam",
+		"Carol Leung", "","Sophia Chan",
+		"Kathleen A", "","Carol Leung",
+		"Precidia Tom", "","Laurel Rogers",
+		"","","Kathleen A.",
 		"","","",
-		"*As of Apr 26","",""
+		"*As of Jul 10","",""
 		};
 
 	private static final String[] title = {"Lefts:","","Rights:"};

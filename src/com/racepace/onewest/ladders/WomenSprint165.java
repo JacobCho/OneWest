@@ -16,15 +16,15 @@ public class WomenSprint165 extends Fragment {
 	
 	private static final String[] paddlers = {
 		"Collyn Chan", "","Carolyn Tse",
-		"Jen Chan", "","Cherry Chen",
-		"Sophia Chan","","Paige M.",
-		"Jessica Tan","","Sophia Chan",
+		"Jessica Tan", "","Paige M.",
+		"Jen Chan","","Sophia Chan",
+		"Sophia Chan","","Cherry Chen",
 		"Carol Leung", "","Carmen Tam",
-		"Cherry Chen", "","Carol Leung",
-		"Kathleen A.", "","Kathleen A.",
-		"Vanessa Chow", "","",
+		"Kathleen A.", "","Carol Leung",
+		"Precidia Tom", "","Laurel Rogers",
+		"","","Kathleen A.",
 		"","","",
-		"*As of Feb 22","",""
+		"*As of Jul 10","",""
 		};
 
 	private static final String[] title = {"Lefts:","","Rights:"};

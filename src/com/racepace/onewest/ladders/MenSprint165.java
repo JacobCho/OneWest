@@ -15,21 +15,22 @@ import android.widget.GridView;
 public class MenSprint165 extends Fragment {
 	
 	private static final String[] paddlers = {
-		"Shane Beaton", "","Sunny Hahm",
-		"Derek Tam","","Ryan Kearns",
-		"Gary Tang","","Tony Chandra",
+		"Derek Tam", "","Ryan Kearns",
+		"Shane Beaton","","Tony Chandra",
+		"Gary Tang","","Charles G.",
 		"Dave Wong","","Nathan Wong",
-		"Lee Zhang","","Benson N.",
-		"Stephano C.","","Anthony Cao",
-		"Jacob Cho","","Charles G.",
-		"Bradley Quan", "","Anthony Sze",
-		"Rob Magus", "","",
-		"Jun Bonifacio", "","",
-		"Brendan A.","","",
-		"Joe Ku","","",
-		"Steven Woo", "","",
+		"Lee Zhang","","Michael Chow",
+		"Terry Huynh","","Benson N.",
+		"Jacob Cho","","James Liu",
+		"Bradley Quan", "","Jessy Tang",
+		"Rob Magus", "","Anthony Sze",
+		"Jun Bonifacio", "","Jack Park",
+		"Joe Ku","","Anthony Cao",
+		"Wesley C","","Amir Fahimi",
+		"Steven Woo", "","Shaun W.",
+		"Kevin Tung","","",
 		"","","",
-		"*As of Feb 22","",""
+		"*As of Jul 8","",""
 		
 		};
 

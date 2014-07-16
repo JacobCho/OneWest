@@ -90,6 +90,44 @@ public class OCWorkoutsFragment extends Fragment {
    
     /************ IF DEVICE VERSION IS HIGHER THAN JELLYBEAN, USE THIS ADAPTER *******************/
     private class AnimatedAdapter extends AnimatedExpandableListAdapter {
+    	// Aug 3
+    	CharSequence aug10primary = Html.fromHtml(getString(R.string.aug10primary));
+    	CharSequence aug10sec = Html.fromHtml(getString(R.string.aug10sec));
+    	CharSequence aug10db = Html.fromHtml(getString(R.string.aug10db));
+    	
+    	// Aug 3
+    	CharSequence aug3primary = Html.fromHtml(getString(R.string.aug3primary));
+    	CharSequence aug3sec = Html.fromHtml(getString(R.string.aug3sec));
+    	CharSequence aug3db = Html.fromHtml(getString(R.string.aug3db));
+    	
+    	// Jul 27
+    	CharSequence jul27primary = Html.fromHtml(getString(R.string.jul27primary));
+    	CharSequence jul27sec = Html.fromHtml(getString(R.string.jul27sec));
+    	CharSequence jul27db = Html.fromHtml(getString(R.string.jul27db));
+    	
+    	// Jul 20
+    	CharSequence jul20primary = Html.fromHtml(getString(R.string.jul20primary));
+    	CharSequence jul20sec = Html.fromHtml(getString(R.string.jul20sec));
+    	CharSequence jul20db = Html.fromHtml(getString(R.string.jul20db));
+    	
+    	// Jul 13
+    	CharSequence jul13primary = Html.fromHtml(getString(R.string.jul13primary));
+    	CharSequence jul13sec = Html.fromHtml(getString(R.string.jul13sec));
+    	CharSequence jul13db = Html.fromHtml(getString(R.string.jul13db));
+    	
+    	// Jul 6
+    	CharSequence jul6primary = Html.fromHtml(getString(R.string.jul6primary));
+    	CharSequence jul6sec = Html.fromHtml(getString(R.string.jul6sec));
+    	CharSequence jul6db = Html.fromHtml(getString(R.string.jul6db));
+    	
+    	// Jun 29
+    	CharSequence jun29primary = Html.fromHtml(getString(R.string.jun29primary));
+    	CharSequence jun29sec = Html.fromHtml(getString(R.string.jun29sec));
+    	CharSequence jun29db = Html.fromHtml(getString(R.string.jun29db));
+    	
+    	// Jun 22
+    	CharSequence jun22primary = Html.fromHtml(getString(R.string.jun22primary));
+    	CharSequence jun22db = Html.fromHtml(getString(R.string.jun22db));
     	
     	// Jun 15
     	CharSequence jun15primary = Html.fromHtml(getString(R.string.jun15primary));
@@ -275,6 +313,14 @@ public class OCWorkoutsFragment extends Fragment {
         private CharSequence[] groups = getResources().getTextArray(R.array.OCDates);
  
         private CharSequence[][] children = {
+        	{ aug10primary, aug10sec, aug10db },
+        	{ aug3primary, aug3sec, aug3db },
+        	{ jul27primary, jul27sec, jul27db },
+        	{ jul20primary, jul20sec, jul20db },	
+        	{ jul13primary, jul13sec, jul13db },
+        	{ jul6primary, jul6sec, jul6db },
+        	{ jun29primary, jun29sec, jun29db},
+        	{ jun22primary, jun22db },
         	{ jun15primary, jun15db },
         	{ jun8primary, jun8sec, jun8db },
         	{ jun1primary, jun1sec, jun1db },
@@ -379,6 +425,44 @@ public class OCWorkoutsFragment extends Fragment {
     }
     
     private class AlternateAdapter extends BaseExpandableListAdapter {
+    	// Aug 3
+    	CharSequence aug10primary = Html.fromHtml(getString(R.string.aug10primary));
+    	CharSequence aug10sec = Html.fromHtml(getString(R.string.aug10sec));
+    	CharSequence aug10db = Html.fromHtml(getString(R.string.aug10db));
+    	
+    	// Aug 3
+    	CharSequence aug3primary = Html.fromHtml(getString(R.string.aug3primary));
+    	CharSequence aug3sec = Html.fromHtml(getString(R.string.aug3sec));
+    	CharSequence aug3db = Html.fromHtml(getString(R.string.aug3db));
+    	
+    	// Jul 27
+    	CharSequence jul27primary = Html.fromHtml(getString(R.string.jul27primary));
+    	CharSequence jul27sec = Html.fromHtml(getString(R.string.jul27sec));
+    	CharSequence jul27db = Html.fromHtml(getString(R.string.jul27db));
+    	
+    	// Jul 20
+    	CharSequence jul20primary = Html.fromHtml(getString(R.string.jul20primary));
+    	CharSequence jul20sec = Html.fromHtml(getString(R.string.jul20sec));
+    	CharSequence jul20db = Html.fromHtml(getString(R.string.jul20db));
+    	
+    	// Jul 13
+    	CharSequence jul13primary = Html.fromHtml(getString(R.string.jul13primary));
+    	CharSequence jul13sec = Html.fromHtml(getString(R.string.jul13sec));
+    	CharSequence jul13db = Html.fromHtml(getString(R.string.jul13db));
+    	
+    	// Jul 6
+    	CharSequence jul6primary = Html.fromHtml(getString(R.string.jul6primary));
+    	CharSequence jul6sec = Html.fromHtml(getString(R.string.jul6sec));
+    	CharSequence jul6db = Html.fromHtml(getString(R.string.jul6db));
+    	
+    	// Jun 29
+    	CharSequence jun29primary = Html.fromHtml(getString(R.string.jun29primary));
+    	CharSequence jun29sec = Html.fromHtml(getString(R.string.jun29sec));
+    	CharSequence jun29db = Html.fromHtml(getString(R.string.jun29db));
+    	
+    	// Jun 22
+    	CharSequence jun22primary = Html.fromHtml(getString(R.string.jun22primary));
+    	CharSequence jun22db = Html.fromHtml(getString(R.string.jun22db));
     	
     	// Jun 15
     	CharSequence jun15primary = Html.fromHtml(getString(R.string.jun15primary));
@@ -564,6 +648,14 @@ public class OCWorkoutsFragment extends Fragment {
         private CharSequence[] groups = getResources().getTextArray(R.array.OCDates);
  
         private CharSequence[][] children = {
+        	{ aug10primary, aug10sec, aug10db },
+            { aug3primary, aug3sec, aug3db },
+            { jul27primary, jul27sec, jul27db },
+            { jul20primary, jul20sec, jul20db },	
+            { jul13primary, jul13sec, jul13db },
+            { jul6primary, jul6sec, jul6db },
+            { jun29primary, jun29sec, jun29db},
+            { jun22primary, jun22db },
         	{ jun15primary, jun15db },
         	{ jun8primary, jun8sec, jun8db },
         	{ jun1primary, jun1sec, jun1db },
